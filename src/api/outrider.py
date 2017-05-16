@@ -2,12 +2,14 @@ from flask import Flask, jsonify
 from bson import json_util
 from pymongo import MongoClient
 import json
+import re
 
 app = Flask(__name__)
 
 client = MongoClient('localhost', 27017)
 db = client.college
 colleges = db.colleges
+teams = db.softball
 
 @app.route('/')
 def index():
@@ -36,6 +38,16 @@ def get_colleges_by_state(state_abbr):
 @app.route('/college/api/v1.0/colleges/states/<state_abbr>/division/<division>', methods=['GET'])
 def get_colleges_by_state_and_division(state_abbr, division): 
     results = colleges.find({"state_abbr": state_abbr, "division": division})
+    return clean_and_jsonify(results);
+
+@app.route('/college/api/v1.0/colleges/softball', methods=['GET'])
+def get_all_softball():
+    results = teams.find()
+    return clean_and_jsonify(results);
+
+@app.route('/college/api/v1.0/colleges/softball/coaches/<coach_name>', methods=['GET'])
+def get_softball_coaches(coach_name):
+    results = teams.find({'head_coach': re.compile(coach_name, re.IGNORECASE)}) 
     return clean_and_jsonify(results);
 
 def clean_and_jsonify(results):
