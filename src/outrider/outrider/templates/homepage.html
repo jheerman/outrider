@@ -10,14 +10,10 @@
     <section class="jumbotron">
         <div class="container">
             {% include "_messages.html" %}
-            <h1>{% blocktrans %}Welcome to<br>pinax-project-account{% endblocktrans %}</h1>
+            <h1>{% blocktrans %}Welcome to<br>Outrider{% endblocktrans %}</h1>
             <p>
                 {% blocktrans %}
-                In addition to what is provided by the "zero" project, this project
-                provides thorough integration with django-user-accounts, adding
-                comprehensive account management functionality. It is a foundation
-                suitable for most sites that have user accounts.
-                {% endblocktrans %}
+                ROBUST TOOLS AND RESOURCES FOR YOUR FAMILY{% endblocktrans %}
             </p>
             {% if not user.is_authenticated %}
             {% url "account_login" as login_url %}
@@ -28,38 +24,33 @@
     </section>
     <section>
         <div class="container">
-            <h2 class="text-center">{% blocktrans %}What is Pinax?{% endblocktrans %}</h2>
+            <h2 class="text-center">{% blocktrans %}What is Outrider?{% endblocktrans %}</h2>
             <p class="lead">
                 {% blocktrans %}
-                <b>Pinax</b> is an open-source platform based on Django and
-                intended to provide a starting point for websites. It takes
-                care of the things that many sites have in common, so you can
-                focus on what makes your site different.
-                {% endblocktrans %}
+                <b>Outrider</b> 
+                You won't ever feel confused about where you stand with college scouting or the recruiting process with our resource library at your fingertips.{% endblocktrans %}
             </p>
             <div class="feature-columns">
                 <div>
                     <i class="fa fa-cubes fa-3x"></i><br>
                     {% blocktrans %}
-                    <b>Starter projects</b> provide project layout,
-                    scaffolding, already integrated components and
-                    ready-to-go code.
-                    {% endblocktrans %}
-                </div>
-                <div>
-                    <i class="fa fa-puzzle-piece fa-3x"></i><br>
-                    {% blocktrans %}
-                    <b>Reusable apps</b> provide common
-                    infrastructure, back-end functionality,
-                    and user-facing components.
-                    {% endblocktrans %}
+                    <b>Learn</b> 
+                    Get up to speed on the recruiting process.
+		    {% endblocktrans %}
                 </div>
                 <div>
                     <i class="fa fa-tint fa-3x"></i><br>
                     {% blocktrans %}
-                    <b>Themes</b> provide default templates and
-                    stylesheets for quick prototyping and easy customization.
-                    {% endblocktrans %}
+                    <b>Evaluate</b>
+                    You can only compete if you know the guidelines. Learn basics here.
+		    {% endblocktrans %}
+                </div>
+                <div>
+                    <i class="fa fa-puzzle-piece fa-3x"></i><br>
+                    {% blocktrans %}
+                    <b>Connect</b> 
+                    Take the next step.
+		    {% endblocktrans %}
                 </div>
             </div>
         </div>
