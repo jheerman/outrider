@@ -1,5 +1,4 @@
 {% extends "site_base.html" %}
-
 {% load i18n %}
 
 {% block head_title %}college search{% endblock %}
@@ -14,7 +13,16 @@
     </section>
     <section>
         <div class="container">
-        </div>
+		<div class="row pull-left">
+				<div class="form-inline">
+						<form>
+							{% csrf_token %}
+							<input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" name="search" id="search" placeholder="Enter name or nickname"/>
+							  <button type="submit" class="btn btn-primary">Search</button>
+						</form>
+				</div>
+			</div>
+		</div>
     </section>
     <section>
         <div class="container">
