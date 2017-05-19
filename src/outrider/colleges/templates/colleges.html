@@ -13,9 +13,9 @@
     </section>
     <section>
         <div class="container">
-		<div class="row pull-left">
+			<div class="row pull-left">
 				<div class="form-inline">
-						<form>
+						<form action="" method="POST">
 							{% csrf_token %}
 							<input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" name="search" id="search" placeholder="Enter name or nickname"/>
 							  <button type="submit" class="btn btn-primary">Search</button>
@@ -24,8 +24,25 @@
 			</div>
 		</div>
     </section>
+
     <section>
         <div class="container">
+			{%if search_results %}
+			<div class="row">
+				<table class="table-striped">
+				<thead>
+					<th>School</th>
+					<th>Nickname</th>
+				</thead>
+				<tbody>
+					{% for school in search_results %}
+						<td>{{ school.name }}</td>
+						<td>{{ school.nickname }}</td>
+					{% endfor %}
+				<tbody>
+				</table>
+			</div>
+			{% endif %}
         </div>
     </section>
 {% endblock %}

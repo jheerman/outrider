@@ -136,6 +136,7 @@ INSTALLED_APPS = [
 
     # project
     "outrider",
+	"colleges",
 ]
 
 # A sample logging configuration. The only tangible logging

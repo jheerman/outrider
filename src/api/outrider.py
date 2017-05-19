@@ -22,7 +22,7 @@ def get_all_colleges():
 
 @app.route('/college/api/v1.0/colleges/<school_name>', methods=['GET'])
 def get_college(school_name): 
-    results = colleges.find({"school": school_name})
+    results = colleges.find({"school": re.compile(school_name, re.IGNORECASE)})
     return clean_and_jsonify(results);
 
 @app.route('/college/api/v1.0/colleges/divisions/<division>', methods=['GET'])
