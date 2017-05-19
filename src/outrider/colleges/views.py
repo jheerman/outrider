@@ -12,7 +12,7 @@ def index(request):
 
 def search(request):
 	if request.method == "POST":
-		search_key = request.POST
+		search_key = request.POST['search']
 		client = OutriderClient()
 		results = client.request("GET", "/states/%s" % search_key)
 		return render(request, 'search.html', {'search_results': results})
