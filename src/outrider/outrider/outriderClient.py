@@ -10,13 +10,12 @@ class OutriderClient:
 
 	def __init__(self, use_raw_response=False):
 		self.use_raw_response = use_raw_response
-	
+
 	def request(self, method, url, *args, **kwargs):
-		url = "%s%s" % (self.API_URL, url)	
+		url = "%s%s" % (self.API_URL, url)
+		results = requests.request(method, url, *args, **kwargs)
 
-		response = requests.request(method, url, *args, **kwargs)
-        if self.use_raw_response:
-			return response
+		#if self.use_raw_response:
+		return results
 
-		return json.loads(response.content)
-
+		#return json.loads(results.data)

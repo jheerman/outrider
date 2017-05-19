@@ -15,7 +15,7 @@
         <div class="container">
 			<div class="row pull-left">
 				<div class="form-inline">
-						<form action="" method="POST">
+						<form action="/colleges/search" method="POST">
 							{% csrf_token %}
 							<input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" name="search" id="search" placeholder="Enter name or nickname"/>
 							  <button type="submit" class="btn btn-primary">Search</button>
@@ -27,6 +27,7 @@
 
     <section>
         <div class="container">
+			{{search_results}}
 			{%if search_results %}
 			<div class="row">
 				<table class="table-striped">
