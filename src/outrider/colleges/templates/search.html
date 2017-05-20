@@ -27,18 +27,25 @@
 
     <section>
         <div class="container">
-			{{search_results}}
 			{%if search_results %}
 			<div class="row">
-				<table class="table-striped">
+				<table class="table table-striped">
 				<thead>
 					<th>School</th>
-					<th>Nickname</th>
+					<th>Team</th>
+					<th>Conference</th>
+					<th>Division</th>
+					<th>City, State</th>
 				</thead>
 				<tbody>
-					{% for school in search_results %}
-						<td>{{ school.name }}</td>
-						<td>{{ school.nickname }}</td>
+					{% for college in search_results %}
+						<tr>
+						<td>{{ college.school }}</td>
+						<td>{{ college.team }}</td>
+						<td>{{ college.conference }}</td>
+						<td>{{ college.division }}</td>
+						<td>{{ college.city}}, {{college.state_abbr}}</td>
+						</tr>
 					{% endfor %}
 				<tbody>
 				</table>

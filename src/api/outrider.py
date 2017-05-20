@@ -22,7 +22,12 @@ def get_all_colleges():
 
 @app.route('/college/api/v1.0/colleges/<school_name>', methods=['GET'])
 def get_college(school_name): 
-    results = colleges.find({"school": re.compile(school_name, re.IGNORECASE)})
+    results = colleges.find({"school": re.compile(school_name, re.IGNORECASE)}).sort("school")
+    return clean_and_jsonify(results);
+
+@app.route('/college/api/v1.0/colleges/teams/<team_name>', methods=['GET'])
+def get_college_team(team_name): 
+    results = colleges.find({"$or":[{"school": re.compile(team_name, re.IGNORECASE)}, {"team": re.compile(team_name, re.IGNORECASE)}]}).sort("school")
     return clean_and_jsonify(results);
 
 @app.route('/college/api/v1.0/colleges/divisions/<division>', methods=['GET'])
