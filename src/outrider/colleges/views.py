@@ -3,6 +3,7 @@ from __future__ import unicode_literals
 
 from django.shortcuts import render
 from django.http import HttpResponse
+from django.contrib.auth.decorators import login_required
 
 from outrider.outriderClient import OutriderClient
 
@@ -10,6 +11,7 @@ from outrider.outriderClient import OutriderClient
 def index(request):
 	return HttpResponse("Hello, outrider!")
 
+@login_required
 def search_by_state(request):
 	if request.method == "POST":
 		search_key = request.POST['search']
@@ -20,6 +22,7 @@ def search_by_state(request):
 
 	return render(request, 'search.html')
 
+@login_required
 def search(request):
 	if request.method == "POST":
 		search_key = request.POST['search']
