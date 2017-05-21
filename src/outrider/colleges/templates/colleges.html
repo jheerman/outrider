@@ -1,7 +1,7 @@
 {% extends "site_base.html" %}
 {% load i18n %}
 
-{% block head_title %}coaches search{% endblock %}
+{% block head_title %}college search{% endblock %}
 
 {% block body_class %}home{% endblock %}
 
@@ -14,7 +14,7 @@
 	<section>
 		<div class="container">
 			<div class="row">
-				<h1>Search Coaches</h1>
+				<h1>Search Colleges</h1>
 			</div>
 		</div>
 	</section>
@@ -22,9 +22,9 @@
         <div class="container">
 			<div class="row pull-left">
 				<div class="form-inline">
-						<form action="/coaches/foo" method="POST">
+						<form action="{% url 'college_search' %}" method="POST">
 							{% csrf_token %}
-							<input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" name="search" id="search" placeholder="Enter first or last name"/>
+							<input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" name="search" id="search" placeholder="Enter name or nickname"/>
 							  <button type="submit" class="btn btn-primary">Search</button>
 						</form>
 				</div>
@@ -38,21 +38,21 @@
 			<div class="row">
 				<table class="table table-striped">
 				<thead>
-					<th>Head Coach</th>
+					<th>School</th>
 					<th>Team</th>
 					<th>Conference</th>
-					<th>W/S Appearances</th>
-					<th>Titles</th>
+					<th>Division</th>
+					<th>City, State</th>
 					<th>Actions</th>
 				</thead>
 				<tbody>
-					{% for coach in search_results %}
+					{% for college in search_results %}
 						<tr>
-						<td>{{ coach.head_coach}}</td>
-						<td>{{ coach.school }} {{ coach.nickname }}</td>
-						<td>{{ coach.conference }}</td>
-						<td>{{ coach.world_series_appearances }}</td>
-						<td>{{ coach.titles}}</td>
+						<td>{{ college.school }}</td>
+						<td>{{ college.team }}</td>
+						<td>{{ college.conference }}</td>
+						<td>{{ college.division }}</td>
+						<td>{{ college.city}}, {{college.state_abbr}}</td>
 						<td><button type="button" class="btn btn-sm btn-gray">More</button>
 						</tr>
 					{% endfor %}

@@ -13,12 +13,12 @@ def index(request):
 	return HttpResponse("Hello, coaches!")
 
 @login_required
-def foo(request):
+def coach_search(request):
 	if request.method == "POST":
 		search_key = request.POST['search']
 		client = OutriderClient()
 		results = client.request("GET", "/softball/coaches/%s" % search_key)
 		coaches = results['data']
-		return render(request, 'search.html', {'search_results': coaches})
+		return render(request, 'coaches.html', {'search_results': coaches})
 
-	return render(request, 'search.html')
+	return render(request, 'coaches.html')

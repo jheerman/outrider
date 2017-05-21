@@ -18,17 +18,17 @@ def search_by_state(request):
 		client = OutriderClient()
 		results = client.request("GET", "/states/%s" % search_key)
 		schools = results['data']
-		return render(request, 'search.html', {'search_results': schools})
+		return render(request, 'colleges.html', {'search_results': schools})
 
-	return render(request, 'search.html')
+	return render(request, 'colleges.html')
 
 @login_required
-def search(request):
+def college_search(request):
 	if request.method == "POST":
 		search_key = request.POST['search']
 		client = OutriderClient()
 		results = client.request("GET", "/teams/%s" % search_key)
 		schools = results['data']
-		return render(request, 'search.html', {'search_results': schools})
+		return render(request, 'colleges.html', {'search_results': schools})
 
-	return render(request, 'search.html')
+	return render(request, 'colleges.html')
