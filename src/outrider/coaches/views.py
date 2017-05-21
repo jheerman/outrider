@@ -13,7 +13,7 @@ def index(request):
 	return HttpResponse("Hello, coaches!")
 
 @login_required
-def search(request):
+def foo(request):
 	if request.method == "POST":
 		search_key = request.POST['search']
 		client = OutriderClient()
