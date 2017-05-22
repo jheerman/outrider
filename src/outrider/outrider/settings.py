@@ -109,6 +109,7 @@ MIDDLEWARE_CLASSES = [
     "django.contrib.auth.middleware.SessionAuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+	'debug_toolbar.middleware.DebugToolbarMiddleware',
 ]
 
 ROOT_URLCONF = "outrider.urls"
@@ -124,6 +125,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.sites",
     "django.contrib.staticfiles",
+	"debug_toolbar",
 
     # theme
     "bootstrapform",
@@ -137,6 +139,7 @@ INSTALLED_APPS = [
     # project
     "outrider",
 	"colleges",
+	"coaches",
 ]
 
 # A sample logging configuration. The only tangible logging
