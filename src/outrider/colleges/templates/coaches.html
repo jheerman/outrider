@@ -11,13 +11,6 @@
             {% include "_messages.html" %}
         </div>
     </section>
-	<section>
-		<div class="container">
-			<div class="row">
-				<h1>Search Coaches</h1>
-			</div>
-		</div>
-	</section>
     <section>
         <div class="container">
 			<div class="row pull-left">
@@ -41,7 +34,6 @@
 					<th>Head Coach</th>
 					<th>Team</th>
 					<th>Conference</th>
-					<th>W/S Appearances</th>
 					<th>Titles</th>
 					<th>Actions</th>
 				</thead>
@@ -51,7 +43,6 @@
 						<td>{{ coach.head_coach}}</td>
 						<td>{{ coach.school }} {{ coach.nickname }}</td>
 						<td>{{ coach.conference }}</td>
-						<td>{{ coach.world_series_appearances }}</td>
 						<td>{{ coach.titles}}</td>
 						<td><button type="button" class="btn btn-sm btn-gray">More</button>
 						</tr>
