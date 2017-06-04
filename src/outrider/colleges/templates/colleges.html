@@ -46,7 +46,7 @@
 						<td>{{ college.conference }}</td>
 						<td>{{ college.division }}</td>
 						<td>{{ college.city}}, {{college.state_abbr}}</td>
-						<td><button type="button" class="btn btn-sm btn-gray">More</button>
+						<td><a href="{% url 'college_detail' college.school.split|join:"_" %}" type="button" class="btn btn-sm btn-gray">More</button>
 						</tr>
 					{% endfor %}
 				<tbody>

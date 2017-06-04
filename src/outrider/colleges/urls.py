@@ -7,6 +7,7 @@ from django.contrib import admin
 import colleges.views
 
 urlpatterns = [
+    url(r'^/(?P<school_name>[\w-]+)/$', colleges.views.college_detail, name="college_detail"),
     url(r'^search/$', colleges.views.college_search, name="college_search"),
 ]
 

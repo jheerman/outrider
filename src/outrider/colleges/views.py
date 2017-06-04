@@ -32,3 +32,7 @@ def college_search(request):
 		return render(request, 'colleges.html', {'search_results': schools})
 
 	return render(request, 'colleges.html')
+
+@login_required
+def college_detail(request, school_name):
+	return render(request, 'college_detail.html', {'school_name': school_name})
