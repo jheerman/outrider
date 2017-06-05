@@ -27,7 +27,7 @@ def college_search(request):
 	if request.method == "POST":
 		search_key = request.POST['search']
 		client = OutriderClient()
-		results = client.request("GET", "/teams/%s" % search_key)
+		results = client.request("GET", "teams/%s" % search_key)
 		schools = results['data']
 		return render(request, 'colleges.html', {'search_results': schools})
 
@@ -35,4 +35,19 @@ def college_search(request):
 
 @login_required
 def college_detail(request, school_name):
-	return render(request, 'college_detail.html', {'school_name': school_name})
+	client = OutriderClient()
+	softball_program = client.request("GET", "%s/softball" % school_name)
+	admission_results = client.request("GET", "admissions/%s" % school_name)
+	if len(admission_results) > 0:
+		admissions = admission_results['data'][0]
+	else:
+		admissions = None
+
+	if len(softball_program) > 0:
+		softball = softball_program['data'][0]
+	else:
+		None
+
+	return render(request, 'college_detail.html', 
+			{'admissions': admissions,
+			'softball': softball},)

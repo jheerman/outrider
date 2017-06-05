@@ -10,6 +10,7 @@ client = MongoClient('localhost', 27017)
 db = client.college
 colleges = db.colleges
 teams = db.softball
+admissions = db.admissions
 
 @app.route('/')
 def index():
@@ -50,10 +51,23 @@ def get_all_softball():
     results = teams.find()
     return clean_and_jsonify(results);
 
+@app.route('/college/api/v1.0/colleges/<school_name>/softball', methods=['GET'])
+def get_softball_for_school(school_name):
+	school = school_name.replace("_", " ")
+	results = teams.find({'school': re.compile(school, re.IGNORECASE)})
+	return clean_and_jsonify(results);
+
 @app.route('/college/api/v1.0/colleges/softball/coaches/<coach_name>', methods=['GET'])
 def get_softball_coaches(coach_name):
     results = teams.find({'head_coach': re.compile(coach_name, re.IGNORECASE)}) 
     return clean_and_jsonify(results);
+
+
+@app.route('/college/api/v1.0/colleges/admissions/<school_name>', methods=['GET'])
+def get_college_admissions(school_name):
+	school = school_name.replace("_", " ")
+	results = admissions.find({'college': re.compile(school, re.IGNORECASE)}) 
+	return clean_and_jsonify(results)
 
 def clean_and_jsonify(results):
     cleaned_data = json.loads(json_util.dumps(results))    

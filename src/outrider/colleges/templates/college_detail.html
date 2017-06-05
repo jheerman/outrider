@@ -1,5 +1,6 @@
 {% extends "site_base.html" %}
 {% load i18n %}
+{% load humanize %}
 
 {% block head_title %}college search{% endblock %}
 
@@ -14,10 +15,54 @@
     <section>
         <div class="container">
 			<div class="row">
-				<div class="jumbotron">
-					<h1>{{ school_name }}</h1>
-				</div>
+				<h3>{{ softball.school }} ({{ admissions.division }})</h3>
 			</div>
         </div>
     </section>
+	<section>
+		<div class="container">
+			<div class="row">
+				<h4>Softball</h4>
+				<hr/>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Conference:</b> {{softball.conference}}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Head Coach:</b> {{softball.head_coach}}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Nickname:</b> {{softball.nickname}}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Titles:</b> {{ softball.titles }}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>W/S Appearances:</b> {{ softball.world_series_appearances }}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Softball Field:</b> {{ softball.field }}</div>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="container">
+			<div class="row">
+				<h4>Admissions</h4>
+				<hr/>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Location:</b> {{softball.state}}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>In-State Tuition:</b> {{ admissions.tuition_in_state }}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Out-of-State Tuition:</b> {{ admissions.tuition_out_state }}</div>
+			</div>
+			<div class="row">
+				<div class="col-9"><b>Enrollment: </b>{{ admissions.enrollment|intcomma }}</div>
+			</div>
+		</div>
+	</section>
 {% endblock %}

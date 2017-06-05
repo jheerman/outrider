@@ -3,7 +3,7 @@ import os.path
 import requests
 
 class OutriderClient:
-	API_URL = "http://localhost:5000/college/api/v1.0/colleges"
+	API_URL = "http://localhost:5000/college/api/v1.0/colleges/"
 	username=None
 	password=None
 	use_raw_response=False
