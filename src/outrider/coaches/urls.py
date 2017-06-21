@@ -7,6 +7,6 @@ from django.contrib import admin
 import coaches.views
 
 urlpatterns = [
-    url(r'^coaches/search', coaches.views.coach_search, name="coach_search"),
+    url(r'^search', coaches.views.coach_search, name="coach_search"),
 ]
 

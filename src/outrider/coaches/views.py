@@ -17,7 +17,9 @@ def coach_search(request):
 	if request.method == "POST":
 		search_key = request.POST['search']
 		client = OutriderClient()
-		results = client.request("GET", "/softball/coaches/%s" % search_key)
+		print search_key
+		results = client.request("GET", "softball/coaches/%s" % search_key)
+		print results
 		coaches = results['data']
 		return render(request, 'coaches.html', {'search_results': coaches})
 
