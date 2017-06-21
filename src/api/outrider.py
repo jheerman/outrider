@@ -60,7 +60,7 @@ def get_softball_for_school(school_name):
 
 @app.route('/college/api/v1.0/colleges/softball/coaches/<coach_name>', methods=['GET'])
 def get_softball_coaches(coach_name):
-    results = coaches.find({'name': re.compile(coach_name, re.IGNORECASE)}) 
+    results = coaches.find({"$or": [{'name': re.compile(coach_name, re.IGNORECASE)},{'college': re.compile(coach_name, re.IGNORECASE)}]}) 
     return clean_and_jsonify(results);
 
 
