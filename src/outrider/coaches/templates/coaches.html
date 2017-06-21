@@ -17,7 +17,7 @@
 				<div class="form-inline">
 						<form action="{% url 'coach_search'%}" method="POST">
 							{% csrf_token %}
-							<input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" name="search" id="search" placeholder="Enter first or last name"/>
+							<input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" name="search" id="search" placeholder="Enter name or school"/>
 							  <button type="submit" class="btn btn-primary">Search</button>
 						</form>
 				</div>
