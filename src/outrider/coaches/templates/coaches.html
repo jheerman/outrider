@@ -31,20 +31,25 @@
 			<div class="row">
 				<table class="table table-striped">
 				<thead>
-					<th>Head Coach</th>
-					<th>Team</th>
-					<th>Conference</th>
-					<th>Titles</th>
-					<th>Actions</th>
+					<th>Name</th>
+					<th>Role</th>
+					<th>School</th>
+					<th>Division</th>
+					<th>Email</th>
+					<th>Phone</th>
+					<th>Address</th>
 				</thead>
 				<tbody>
 					{% for coach in search_results %}
 						<tr>
-						<td>{{ coach.head_coach}}</td>
-						<td>{{ coach.school }} {{ coach.nickname }}</td>
-						<td>{{ coach.conference }}</td>
-						<td>{{ coach.titles}}</td>
-						<td><button type="button" class="btn btn-sm btn-gray">More</button>
+								<td>{{ coach.name}}</td>
+								<td>{{ coach.role}}</td>
+								<td>{{ coach.college }}</td>
+								<td>D{{ coach.division }}</td>
+								<td>{{ coach.email}}</td>
+								<td>{{ coach.phone}}</td>
+								<td>{{ coach.address}}</td>
+		
 						</tr>
 					{% endfor %}
 				<tbody>

@@ -11,6 +11,7 @@ db = client.college
 colleges = db.colleges
 teams = db.softball
 admissions = db.admissions
+coaches = db.coaches
 
 @app.route('/')
 def index():
@@ -59,7 +60,7 @@ def get_softball_for_school(school_name):
 
 @app.route('/college/api/v1.0/colleges/softball/coaches/<coach_name>', methods=['GET'])
 def get_softball_coaches(coach_name):
-    results = teams.find({'head_coach': re.compile(coach_name, re.IGNORECASE)}) 
+    results = coaches.find({'name': re.compile(coach_name, re.IGNORECASE)}) 
     return clean_and_jsonify(results);
 
 
