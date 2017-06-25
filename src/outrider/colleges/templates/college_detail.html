@@ -106,4 +106,32 @@
 			</div>
 		</div>
 	</section>
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<h4>Testing</h4>
+					<hr/>
+					<div>
+						<div><b>ACT Total 25th Percentile:</b> {{ demographics.act_25th_percentile}}</div>
+					</div>
+					<div>
+						<div><b>ACT Total 75th Percentile:</b> {{ demographics.act_75th_percentile}}</div>
+					</div>
+					<div>
+						<div><b>SAT Total 25th Percentile: </b>{{ demographics.sat_total_25th_percentile}}</div>
+					</div>
+					<div>
+						<div><b>SAT Total 75th Percentile: </b>{{ demographics.sat_total_75th_percentile}}</div>
+					</div>
+					<div>
+						<div><b>Students Submitting ACT: </b>{{ demographics.percent_submitting_act}}%</div>
+					</div>
+					<div>
+						<div><b>Students Submitting SAT: </b>{{ demographics.percent_submitting_sat}}%</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 {% endblock %}
