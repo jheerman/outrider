@@ -21,54 +21,88 @@
     <section>
         <div class="container">
 			<div class="row">
-				<h3>{{ college.school }} ({{ admissions.division }})</h3>
+				<h3><a href="http://{{demographics.website}}" target="_new">{{ college.school }} ({{ admissions.division }})</a></h3>
 				<h4>{{ college.city }}, {{ college.state }}</h4>
+				<h6>Campus Setting: {{demographics.campus_setting}}</h6>
+				<h6>Public or Private: {{demographics.public_or_private}}</h6>
 			</div>
         </div>
     </section>
 	<section>
 		<div class="container">
 			<div class="row">
-				<h4>Softball</h4>
-				<hr/>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>Conference:</b> {{softball.conference}}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>Head Coach:</b> {{softball.head_coach}}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>Nickname:</b> {{softball.nickname}}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>Titles:</b> {{ softball.titles }}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>W/S Appearances:</b> {{ softball.world_series_appearances }}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>Softball Field:</b> {{ softball.field }}</div>
+				<div class="col">
+					<h4>Softball</h4>
+					<hr/>
+					<div>
+						<div><b>Conference:</b> {{softball.conference}}</div>
+					</div>
+					<div>
+						<div><b>Head Coach:</b> {{softball.head_coach}}</div>
+					</div>
+					<div>
+						<div><b>Nickname:</b> {{softball.nickname}}</div>
+					</div>
+					<div>
+						<div><b>Titles:</b> {{ softball.titles }}</div>
+					</div>
+					<div>
+						<div><b>W/S Appearances:</b> {{ softball.world_series_appearances }}</div>
+					</div>
+					<div>
+						<div><b>Softball Field:</b> {{ softball.field }}</div>
+					</div>
+					<div>
+						<div><b>Website:</b> <a target="_new" href='{{ coach.website }}'>{{coach.website}}</a></div>
+					</div>
+					<div>
+						<div><b>Office Address:</b> {{ coach.address }}</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
 	<section>
 		<div class="container">
 			<div class="row">
-				<h4>Admissions</h4>
-				<hr/>
+				<div class="col">
+					<h4>Admissions</h4>
+					<hr/>
+					<div>
+						<div><b>In-State Tuition:</b> {{ admissions.tuition_in_state }}</div>
+					</div>
+					<div>
+						<div><b>Out-of-State Tuition:</b> {{ admissions.tuition_out_state }}</div>
+					</div>
+					<div>
+						<div><b>Enrollment: </b>{{ admissions.enrollment|intcomma }}</div>
+					</div>
+					<div>
+						<div><b>Applicants:</b> {{demographics.applicants|intcomma}}</div>
+					</div>
+					<div>
+						<div><b>Acceptance Rate:</b> {{demographics.acceptance_rate}}</div>
+					</div>
+				</div>
 			</div>
+		</div>
+	</section>
+	<section>
+		<div class="container">
 			<div class="row">
-				<div class="col-9"><b>Location:</b> {{softball.state}}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>In-State Tuition:</b> {{ admissions.tuition_in_state }}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>Out-of-State Tuition:</b> {{ admissions.tuition_out_state }}</div>
-			</div>
-			<div class="row">
-				<div class="col-9"><b>Enrollment: </b>{{ admissions.enrollment|intcomma }}</div>
+				<div class="col">
+					<h4>Demographics</h4>
+					<hr/>
+					<div>
+						<div><b>Student-Faculty Ratio:</b> {{ demographics.student_to_faculty_ratio }}</div>
+					</div>
+					<div>
+						<div><b>Graduation Rate:</b> {{ demographics.graduation_rate }}</div>
+					</div>
+					<div>
+						<div><b>Average Finanical Aid: </b>{{ demographics.average_financial_aid }}</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>

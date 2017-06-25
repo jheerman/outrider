@@ -11,6 +11,14 @@
             {% include "_messages.html" %}
         </div>
     </section>
+	<section>
+		<div class="container">
+			<div class="row">
+			<h2>Coach Search</h2>
+			<p>Enter a college or coach name to search by</p>
+			</div>
+		</div>
+	</section>
     <section>
         <div class="container">
 			<div class="row pull-left">
@@ -37,7 +45,6 @@
 					<th>Division</th>
 					<th>Email</th>
 					<th>Phone</th>
-					<th>Address</th>
 				</thead>
 				<tbody>
 					{% for coach in search_results %}
@@ -48,8 +55,6 @@
 								<td>{{ coach.division }}</td>
 								<td>{{ coach.email}}</td>
 								<td>{{ coach.phone}}</td>
-								<td>{{ coach.address}}</td>
-		
 						</tr>
 					{% endfor %}
 				<tbody>

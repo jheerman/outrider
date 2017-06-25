@@ -3,16 +3,16 @@
         "pk": 1,
         "model": "sites.site",
         "fields": {
-            "domain": "localhost:8000",
-            "name": "outrider.com [localhost]"
+            "domain": "localhost:8080",
+            "name": "softballoutpost.com [localhost]"
         }
     },
     {
         "pk": 2,
         "model": "sites.site",
         "fields": {
-            "domain": "outrider.com",
-            "name": "outrider.com"
+            "domain": "softballoutpost.com",
+            "name": "Softball Outpost"
         }
     }
 ]
