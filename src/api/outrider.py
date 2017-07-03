@@ -70,7 +70,7 @@ def get_softball_coaches(coach_name):
 
 @app.route('/outpost/api/v1.0/colleges/admissions/<school_name>', methods=['GET'])
 def get_college_admissions(school_name):
-	results = admissions.find({'college': re.compile(school_name, re.IGNORECASE)}) 
+	results = admissions.find({'school': re.compile(school_name, re.IGNORECASE)}) 
 	return clean_and_jsonify(results)
 
 def clean_and_jsonify(results):
