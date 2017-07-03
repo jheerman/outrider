@@ -1,3 +1,5 @@
 *.swo
 *.swp
+*.pyc
 src/huntsman/huntsman/spiders/auth.json
+
