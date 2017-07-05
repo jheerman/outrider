@@ -63,9 +63,9 @@ def get_softball_for_school(school_name):
 	print results;
 	return clean_and_jsonify(results);
 
-@app.route('/outpost/api/v1.0/colleges/<school_name>/demographics', methods=['GET'])
-def get_demographics_for_school(school_name):
-	results = demographics.find({'school': re.compile(school_name, re.IGNORECASE)})
+@app.route('/outpost/api/v1.0/colleges/demographics/<school_slug>', methods=['GET'])
+def get_demographics_for_school(school_slug):
+	results = demographics.find({'slug': re.compile(school_slug, re.IGNORECASE)})
 	print results;
 	return clean_and_jsonify(results);
 
@@ -75,9 +75,9 @@ def get_softball_coaches(coach_name):
     return clean_and_jsonify(results);
 
 
-@app.route('/outpost/api/v1.0/colleges/admissions/<school_name>', methods=['GET'])
-def get_college_admissions(school_name):
-	results = admissions.find({'school': re.compile(school_name, re.IGNORECASE)}) 
+@app.route('/outpost/api/v1.0/colleges/admissions/<school_slug>', methods=['GET'])
+def get_college_admissions(school_slug):
+	results = admissions.find({'slug': re.compile(school_slug, re.IGNORECASE)}) 
 	return clean_and_jsonify(results)
 
 def clean_and_jsonify(results):
