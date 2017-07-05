@@ -54,7 +54,7 @@
 						<td>{{ college.conference }}</td>
 						<td>{{ college.division }}</td>
 						<td>{{ college.city}}, {{college.state_abbr}}</td>
-						<td>{% if college.division == "D1" %}<a href="{% url 'college_detail' college.school.split|join:"_" %}" type="button" class="btn btn-sm btn-gray">More</button> {% else %}&nbsp;{% endif%}
+						<td>{% if college.division == "D1" %}<a href="{% url 'college_detail' college.slug %}" type="button" class="btn btn-sm btn-gray">More</button> {% else %}&nbsp;{% endif%}
 						</tr>
 					{% endfor %}
 				<tbody>
