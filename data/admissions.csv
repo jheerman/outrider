@@ -1186,7 +1186,7 @@ Columbia, MD",,Most Competitive,All Others,JC,"$5,690","$6,770",3729,
 "Howard Payne University
 Brownwood, TX",,All Others,Somewhat Selective,D3,"$25,600","$25,600",945,
 "Howard University
-Washington, DC",,All Others,Somewhat Selective,D1,"$23,970","$23,970",6513,
+Washington, DC",HU169,All Others,Somewhat Selective,D1,"$23,970","$23,970",6513,
 "Humboldt State University
 Arcata, CA",,Most Competitive,Somewhat Selective,D2,"$7,195","$18,364",7447,
 "Huntingdon College
@@ -1194,7 +1194,7 @@ Montgomery, AL",,Competitive,Somewhat Selective,D3,"$25,050","$25,050",912,
 "Huntington University
 Huntington, IN",,Competitive,Selective,NAIA,"$24,822","$24,822",955,
 "Husson University
-Bangor, ME",,Competitive,Somewhat Selective,D3,"$16,097","$16,097",2238,
+Bangor, ME",ISU259,Competitive,Somewhat Selective,D3,"$16,097","$16,097",2238,
 "Huston-Tillotson University
 Austin, TX",,All Others,Somewhat Selective,NAIA,"$14,346","$14,346",927,
 "Hutchinson Community College
@@ -1206,7 +1206,7 @@ East Peoria, IL",,Most Competitive,All Others,JC,"$8,700","$10,050",3680,
 "Illinois College
 Jacksonville, IL",,All Others,Selective,D3,"$31,660","$31,660",952,
 "Illinois State University
-Normal, IL",,Most Competitive,Selective,D1,"$13,666","$21,482",17040,
+Normal, IL",ISU268,Most Competitive,Selective,D1,"$13,666","$21,482",17040,
 "Illinois Valley Community College
 Oglesby, IL",,Competitive,All Others,JC,"$10,359","$11,221",1467,
 "Illinois Wesleyan University
@@ -1224,9 +1224,9 @@ Fort Pierce, FL",,Most Competitive,All Others,JC,"$2,764","$10,201",5950,
 "Indiana Institute of Technology
 Fort Wayne, IN",,All Others,Somewhat Selective,NAIA,"$25,600","$25,600",4164,
 "Indiana State University
-Terre Haute, IN",,Somewhat Competitive,Somewhat Selective,D1,"$8,580","$18,708",9459,
+Terre Haute, IN",ISU318,Somewhat Competitive,Somewhat Selective,D1,"$8,580","$18,708",9459,
 "Indiana University
-Bloomington, IN",,Somewhat Competitive,Selective,D1,"$10,388","$33,741",31370,
+Bloomington, IN",IU317,Somewhat Competitive,Selective,D1,"$10,388","$33,741",31370,
 "Indiana University - South Bend
 South Bend, IN",,Most Competitive,Somewhat Selective,NAIA,"$6,986","$18,379",3857,
 "Indiana University - Southeast
@@ -1234,19 +1234,19 @@ New Albany, IN",,Most Competitive,Somewhat Selective,NAIA,"$6,949","$18,379",358
 "Indiana University of Pennsylvania
 Indiana, PA",,Most Competitive,Somewhat Selective,D2,"$9,936","$21,835",11452,
 "Indiana University-Purdue University - Fort Wayne
-Fort Wayne, IN",,All Others,Somewhat Selective,D1,"$8,080","$19,408",6971,
+Fort Wayne, IN",IUPUFW319,All Others,Somewhat Selective,D1,"$8,080","$19,408",6971,
 "Indiana University-Purdue University - Indianapolis (IUPUI)
-Indianapolis, IN",,Competitive,Somewhat Selective,D1,"$9,056","$29,774",17262,
+Indianapolis, IN",IUPUI320,Competitive,Somewhat Selective,D1,"$9,056","$29,774",17262,
 "Indiana Wesleyan University
 Marion, IN",,Competitive,Selective,NAIA,"$24,728","$24,728",2980,
 "Iona College
-New Rochelle, NY",,Somewhat Competitive,Selective,D1,"$35,324","$35,324",2994,
+New Rochelle, NY",IC739,Somewhat Competitive,Selective,D1,"$35,324","$35,324",2994,
 "Iowa Central Community College
 Fort Dodge, IA",,Most Competitive,All Others,JC,"$4,890","$7,125",3011,
 "Iowa Lakes Community College - Estherville Campus
 Estherville, IA",,Competitive,All Others,JC,"$5,676","$6,028",1090,
 "Iowa State University
-Ames, IA",,Competitive,Selective,D1,"$7,736","$20,856",27440,
+Ames, IA",ISU357,Competitive,Selective,D1,"$7,736","$20,856",27440,
 "Iowa Wesleyan University
 Mount Pleasant, IA",,Somewhat Competitive,All Others,D3,"$27,286","$27,286",386,
 "Iowa Western Community College
@@ -1262,13 +1262,13 @@ Jackson, MI",,Competitive,All Others,JC,"$5,040","$6,912",2226,
 "Jackson State Community College
 Jackson, TN",,Competitive,All Others,JC,"$3,933","$15,333",1987,
 "Jackson State University
-Jackson, MS",,All Others,Somewhat Selective,D1,"$6,886","$16,841",5959,
+Jackson, MS",JSU608,All Others,Somewhat Selective,D1,"$6,886","$16,841",5959,
 "Jacksonville State University
 Jacksonville, AL",,Competitive,Somewhat Selective,D1,"$7,500","$14,700",5733,
 "Jacksonville University
-Jacksonville, FL",,Competitive,Somewhat Selective,D1,"$32,620","$32,620",2111,
+Jacksonville, FL",JU182,Competitive,Somewhat Selective,D1,"$32,620","$32,620",2111,
 "James Madison University
-Harrisonburg, VA",,Most Competitive,Selective,D1,"$10,018","$25,152",18057,
+Harrisonburg, VA",JMU1246,Most Competitive,Selective,D1,"$10,018","$25,152",18057,
 "Jarvis Christian College
 Hawkins, TX",,All Others,All Others,NAIA,"$11,720","$11,720",701,
 "Jefferson College
@@ -1310,7 +1310,7 @@ Kankakee, IL",,Most Competitive,All Others,JC,"$9,082","$17,718",1386,
 "Kansas City Kansas Community College
 Kansas City, KS",,Competitive,All Others,JC,"$3,240","$8,040",2276,
 "Kansas University
-Lawrence, KS",,Most Competitive,Selective,D1,"$10,825","$26,659",17335,
+Lawrence, KS",UOK382,Most Competitive,Selective,D1,"$10,825","$26,659",17335,
 "Kansas Wesleyan University
 Salina, KS",,Most Competitive,Somewhat Selective,NAIA,"$26,600","$26,600",593,
 "Kaskaskia College
@@ -1324,9 +1324,9 @@ West Palm Beach, FL",,All Others,Somewhat Selective,NAIA,"$23,132","$23,132",538
 "Kellogg Community College
 Battle Creek, MI",,Competitive,All Others,JC,"$5,402","$7,556",1697,
 "Kennesaw State University
-Kennesaw, GA",,Competitive,Somewhat Selective,D1,"$5,912","$15,630",17732,
+Kennesaw, GA",KSU212,Competitive,Somewhat Selective,D1,"$5,912","$15,630",17732,
 "Kent State University
-Kent, OH",,Most Competitive,Somewhat Selective,D1,"$10,012","$18,212",18873,
+Kent, OH",KSU893,Most Competitive,Somewhat Selective,D1,"$10,012","$18,212",18873,
 "Kent State University - Tuscarawas
 New Philadelphia, OH",,All Others,Somewhat Selective,Other,"$5,664","$13,864",797,
 "Kentucky Christian University
@@ -1358,7 +1358,7 @@ Kutztown, PA",,Somewhat Competitive,Somewhat Selective,D2,"$9,411","$20,229",804
 "La Roche College
 Pittsburgh, PA",,All Others,Somewhat Selective,D3,"$26,250","$26,250",1065,
 "La Salle University
-Philadelphia, PA",,All Others,Selective,D1,"$41,100","$41,100",3583,
+Philadelphia, PA",LSU986,All Others,Selective,D1,"$41,100","$41,100",3583,
 "La Sierra University
 Riverside, CA",,All Others,Somewhat Selective,NAIA,"$30,471","$30,471",1899,
 "Labette Community College
@@ -1366,7 +1366,7 @@ Parsons, KS",,Competitive,All Others,JC,"$2,700","$3,450",653,
 "Lackawanna College
 Scranton, PA",,Competitive,All Others,JC,"$12,280","$12,280",1042,
 "Lafayette College
-Easton, PA",,All Others,Most Selective,D1,"$47,760","$47,760",2446,
+Easton, PA",LC987,All Others,Most Selective,D1,"$47,760","$47,760",2446,
 "LaGrange College
 Lagrange, GA",,Somewhat Competitive,Somewhat Selective,D3,"$27,540","$27,540",804,
 "Lake Erie College
@@ -1390,7 +1390,7 @@ Lamar, CO",,Most Competitive,All Others,JC,"$3,546","$5,766",419,
 "Lamar State College
 Port Arthur, TX",,Competitive,All Others,JC,"$4,117","$12,427",,
 "Lamar University
-Beaumont, TX",,Somewhat Competitive,All Others,D1,"$8,002","$17,362",6460,
+Beaumont, TX",LU1168,Somewhat Competitive,All Others,D1,"$8,002","$17,362",6460,
 "Lancaster Bible College
 Lancaster, PA",,Somewhat Competitive,All Others,D3,"$19,980","$19,980",835,
 "Lander University
@@ -1422,7 +1422,7 @@ Banner Elk, NC",,All Others,Somewhat Selective,D2,"$25,404","$25,404",930,
 "Lehigh Carbon Community College
 Schnecksville, PA",,All Others,All Others,JC,"$7,070","$10,340",2525,
 "Lehigh University
-Bethlehem, PA",,Competitive,Most Selective,D1,"$46,230","$46,230",4984,
+Bethlehem, PA",LU988,Competitive,Most Selective,D1,"$46,230","$46,230",4984,
 "LeMoyne-Owen College
 Memphis, TN",,All Others,All Others,D2,"$10,680","$10,680",892,
 "Lenoir-Rhyne University
@@ -1438,7 +1438,7 @@ Godfrey, IL",,Competitive,All Others,JC,"$8,256","$10,848",2311,
 "Lewis University
 Romeoville, IL",,Most Competitive,Somewhat Selective,D2,"$29,040","$29,040",3816,
 "Liberty University
-Lynchburg, VA",,All Others,Somewhat Selective,D1,"$20,109","$20,109",27408,
+Lynchburg, VA",LU1247,All Others,Somewhat Selective,D1,"$20,109","$20,109",27408,
 "Limestone College
 Gaffney, SC",,Somewhat Competitive,Somewhat Selective,D2,"$23,900","$23,900",2307,
 "Lincoln College
@@ -1462,7 +1462,7 @@ Columbia, KY",,Most Competitive,Somewhat Selective,NAIA,"$23,162","$23,162",2079
 "Linfield College
 McMinnville, OR",,Most Competitive,Selective,D3,"$38,754","$38,754",1644,
 "Lipscomb University
-Nashville, TN",,Competitive,Selective,D1,"$28,624","$28,624",2583,
+Nashville, TN",LU1135,Competitive,Selective,D1,"$28,624","$28,624",2583,
 "Livingstone College
 Salisbury, NC",,All Others,All Others,D2,"$17,244","$17,244",1293,
 "Lock Haven University
@@ -1470,7 +1470,7 @@ Lock Haven, PA",,Competitive,Somewhat Selective,D2,"$9,380","$18,050",4165,
 "Long Beach City College
 Long Beach, CA",,Competitive,All Others,JC,"$1,182","$7,398",9780,
 "Long Island University -- Brooklyn
-Brooklyn, NY",,Somewhat Competitive,Somewhat Selective,D1,"$35,546","$35,546",4113,
+Brooklyn, NY",LU1248,Somewhat Competitive,Somewhat Selective,D1,"$35,546","$35,546",4113,
 "Long Island University - Post
 Brookville, NY",,Most Competitive,Somewhat Selective,D2,"$35,546","$35,546",3387,
 "Longwood University
@@ -1496,17 +1496,17 @@ Alexandria, LA",,Most Competitive,Somewhat Selective,NAIA,"$6,158","$13,150",154
 "Louisiana State University - Eunice
 Eunice, LA",,Most Competitive,All Others,JC,"$3,828","$9,192",1351,
 "Louisiana State University (LSU)
-Baton Rouge, LA",,Most Competitive,Selective,D1,"$9,714","$26,877",23195,
+Baton Rouge, LA",LSU434,Most Competitive,Selective,D1,"$9,714","$26,877",23195,
 "Louisiana Tech University
-Ruston, LA",,Somewhat Competitive,Selective,D1,"$8,854","$25,852",6891,
+Ruston, LA",LTU435,Somewhat Competitive,Selective,D1,"$8,854","$25,852",6891,
 "Lourdes University
 Sylvania, OH",,Somewhat Competitive,Somewhat Selective,NAIA,"$19,370","$19,370",1016,
 "Lower Columbia College
 Longview, WA",,Somewhat Competitive,All Others,JC,"$4,131","$4,644",1681,
 "Loyola Marymount University
-Los Angeles, CA",,All Others,Selective,D1,"$42,795","$42,795",5925,
+Los Angeles, CA",LMU65,All Others,Selective,D1,"$42,795","$42,795",5925,
 "Loyola University Chicago
-Chicago, IL",,Somewhat Competitive,Selective,D1,"$40,426","$40,426",9331,
+Chicago, IL",LUC270,Somewhat Competitive,Selective,D1,"$40,426","$40,426",9331,
 "Lubbock Christian University
 Lubbock, TX",,Competitive,Somewhat Selective,D2,"$20,360","$20,360",1222,
 "Luna Community College
@@ -1542,7 +1542,7 @@ Canton, OH",,All Others,Somewhat Selective,D2,"$27,960","$27,960",1332,
 "Manchester University
 North Manchester, IN",,All Others,Somewhat Selective,D3,"$29,910","$29,910",1248,
 "Manhattan College
-Riverdale, NY",,All Others,Selective,D1,"$38,580","$38,580",3276,
+Riverdale, NY",MC741,All Others,Selective,D1,"$38,580","$38,580",3276,
 "Manhattanville College
 Purchase, NY",,Competitive,Somewhat Selective,D3,"$36,220","$36,220",1708,
 "Mansfield University of Pennsylvania
@@ -1558,11 +1558,11 @@ Marietta, OH",,Competitive,Selective,D3,"$34,300","$34,300",1283,
 "Marion Military Institute
 Marion, AL",,Competitive,All Others,JC,"$8,778","$14,778",433,
 "Marist College
-Poughkeepsie, NY",,Somewhat Competitive,Selective,D1,"$33,840","$33,840",4876,
+Poughkeepsie, NY",MC742,Somewhat Competitive,Selective,D1,"$33,840","$33,840",4876,
 "Mars Hill University
 Mars Hill, NC",,Somewhat Competitive,Somewhat Selective,D2,"$29,382","$29,382",1335,
 "Marshall University
-Huntington, WV",,Competitive,Somewhat Selective,D1,"$6,814","$15,602",8142,
+Huntington, WV",MU1298,Competitive,Somewhat Selective,D1,"$6,814","$15,602",8142,
 "Marshalltown Community College
 Marshalltown, IA",,Most Competitive,All Others,JC,"$4,416","$4,656",844,
 "Martin Luther College
@@ -1604,7 +1604,7 @@ Waco, TX",,Most Competitive,All Others,JC,"$3,192","$4,560",3566,
 "McMurry University
 Abilene, TX",,All Others,Somewhat Selective,D3,"$25,763","$25,763",848,
 "McNeese State University
-Lake Charles, LA",,Most Competitive,Somewhat Selective,D1,"$7,290","$18,365",5839,
+Lake Charles, LA",MSU436,Most Competitive,Somewhat Selective,D1,"$7,290","$18,365",5839,
 "McPherson College
 McPherson, KS",,Somewhat Competitive,Somewhat Selective,NAIA,"$25,236","$25,236",580,
 "Medaille College
@@ -1618,7 +1618,7 @@ Merced, CA",,Somewhat Competitive,All Others,JC,"$1,141","$6,133",4956,
 "Mercer County Community College
 West Windsor, NJ",,Most Competitive,All Others,JC,"$4,788","$6,900",2947,
 "Mercer University
-Macon, GA",,Most Competitive,Selective,D1,"$34,450","$34,450",3833,
+Macon, GA",MU213,Most Competitive,Selective,D1,"$34,450","$34,450",3833,
 "Mercy College
 Dobbs Ferry, NY",,Somewhat Competitive,All Others,D2,"$18,076","$18,076",5289,
 "Mercyhurst North East
@@ -1652,7 +1652,7 @@ Hamilton, OH",,All Others,All Others,JC,"$5,173","$14,737",2358,
 "Miami University - Middletown
 Middletown, OH",,All Others,All Others,JC,"$5,173","$14,737",1248,
 "Michigan State University
-East Lansing, MI",,Somewhat Competitive,Selective,D1,"$13,560","$36,360",35341,
+East Lansing, MI",MSU546,Somewhat Competitive,Selective,D1,"$13,560","$36,360",35341,
 "Mid-America Christian University
 Oklahoma City, OK",,Competitive,All Others,NAIA,"$16,798","$16,798",1605,
 "MidAmerica Nazarene University
@@ -1662,7 +1662,7 @@ Elizabeth City, NC",,Somewhat Competitive,All Others,D3,"$13,440","$13,440",149,
 "Middle Georgia State University
 Macon, GA",,Competitive,All Others,NAIA,"$3,103","$9,237",2127,
 "Middle Tennessee State University
-Murfreesboro, TN",,All Others,Somewhat Selective,D1,"$8,080","$24,808",16627,
+Murfreesboro, TN",MTSU1137,All Others,Somewhat Selective,D1,"$8,080","$24,808",16627,
 "Middlebury College
 Middlebury, VT",,Competitive,Most Selective,D3,"$47,828","$47,828",2492,
 "Middlesex County College
@@ -1714,17 +1714,17 @@ Moorhead, MS",,Competitive,All Others,JC,"$2,520","$4,128",2083,
 "Mississippi Gulf Coast Community College
 Perkinston, MS",,Competitive,All Others,JC,"$3,272","$5,118",6351,
 "Mississippi State University
-Mississippi State, MS",,Most Competitive,Somewhat Selective,D1,"$7,502","$20,142",15146,
+Mississippi State, MS",MSU610,Most Competitive,Somewhat Selective,D1,"$7,502","$20,142",15146,
 "Mississippi University for Women
 Columbus, MS",,Most Competitive,Most Selective,Other,$0,$0,0,
 "Mississippi Valley State University
-Itta Bena, MS",,All Others,All Others,D1,"$5,936","$5,936",1652,
+Itta Bena, MS",MVSU611,All Others,All Others,D1,"$5,936","$5,936",1652,
 "Missouri Baptist University
 Saint Louis, MO",,All Others,Somewhat Selective,NAIA,"$23,886","$23,886",1389,
 "Missouri Southern State University
 Joplin, MO",,Somewhat Competitive,Somewhat Selective,D2,"$5,523","$10,480",4140,
 "Missouri State University
-Springfield, MO",,Competitive,Selective,D1,"$7,060","$13,930",14097,
+Springfield, MO",MSU623,Competitive,Selective,D1,"$7,060","$13,930",14097,
 "Missouri University of Science & Technology
 Rolla, MO",,Competitive,Selective,D2,"$9,048","$24,470",5825,
 "Missouri Valley College
@@ -1738,13 +1738,13 @@ Modesto, CA",,Somewhat Competitive,All Others,JC,"$1,162","$6,370",6279,
 "Molloy College
 Rockville Centre, NY",,Most Competitive,Somewhat Selective,D2,"$28,030","$28,030",2679,
 "Monmouth College
-Monmouth, IL",,Competitive,Selective,D3,"$34,200","$34,200",1279,
+Monmouth, IL",MU697,Competitive,Selective,D3,"$34,200","$34,200",1279,
 "Monmouth University
 West Long Branch, NJ",,Somewhat Competitive,Somewhat Selective,D1,"$33,729","$33,729",4370,
 "Monroe College - Bronx
 Bronx, NY",,Competitive,All Others,JC,"$12,848","$12,848",5375,
 "Montana State University - Billings
-Billings, MT",,Competitive,Somewhat Selective,D2,"$5,808","$17,842",3044,
+Billings, MT",UOM658,Competitive,Somewhat Selective,D2,"$5,808","$17,842",3044,
 "Montclair State University
 Montclair, NJ",,Most Competitive,Somewhat Selective,D3,"$12,116","$20,006",21000,
 "Monterey Peninsula College
@@ -1764,9 +1764,9 @@ Palos Hills, IL",,Competitive,All Others,JC,"$8,916","$10,326",6624,
 "Moravian College
 Bethlehem, PA",,Competitive,Selective,D3,"$38,832","$38,832",1481,
 "Morehead State University
-Morehead, KY",,All Others,Somewhat Selective,D1,"$8,098","$20,246",6258,
+Morehead, KY",MSU408,All Others,Somewhat Selective,D1,"$8,098","$20,246",6258,
 "Morgan State University
-Baltimore, MD",,All Others,Somewhat Selective,D1,"$7,508","$17,182",5544,
+Baltimore, MD",MSU469,All Others,Somewhat Selective,D1,"$7,508","$17,182",5544,
 "Morningside College
 Sioux City, IA",,Most Competitive,Selective,NAIA,"$28,155","$28,155",1279,
 "Morris College
@@ -1796,7 +1796,7 @@ Newburgh, NY",,Competitive,Somewhat Selective,D3,"$28,233","$28,233",1712,
 "Mount St. Joseph University
 Cincinnati, OH",,All Others,Somewhat Selective,D3,"$27,500","$27,500",1142,
 "Mount St. Mary's University
-Emmitsburg, MD",,All Others,Somewhat Selective,D1,"$37,500","$37,500",1723,
+Emmitsburg, MD",MSMU470,All Others,Somewhat Selective,D1,"$37,500","$37,500",1723,
 "Mount Vernon Nazarene University
 Mount Vernon, OH",,Somewhat Competitive,Selective,NAIA,"$25,748","$25,748",1392,
 "Mt. Hood Community College
@@ -1808,7 +1808,7 @@ San Jacinto, CA",,Most Competitive,All Others,JC,"$1,386","$7,656",5114,
 "Muhlenberg College
 Allentown, PA",,Competitive,Selective,D3,"$45,875","$45,875",2299,
 "Murray State College
-Tishomingo, OK",,Competitive,All Others,JC,"$4,340","$10,260",1149,
+Tishomingo, OK",MSU409,Competitive,All Others,JC,"$4,340","$10,260",1149,
 "Murray State University
 Murray, KY",,Competitive,Selective,D1,"$7,608","$20,712",7370,
 "Muscatine Community College
@@ -1840,7 +1840,7 @@ Jersey City, NJ",,All Others,All Others,D3,"$11,180","$20,009",4689,
 "New Mexico Highlands University
 Las Vegas, NM",,All Others,All Others,D2,"$4,800","$7,534",1510,
 "New Mexico State University
-Las Cruces, NM",,Somewhat Competitive,Somewhat Selective,D1,"$6,094","$19,652",10668,
+Las Cruces, NM",NMSU724,Somewhat Competitive,Somewhat Selective,D1,"$6,094","$19,652",10668,
 "New River Community College
 Dublin, VA",,Competitive,All Others,JC,"$4,352","$10,190",1870,
 "New York Institute of Technology
@@ -1854,21 +1854,21 @@ Brookline, MA",,Competitive,All Others,D3,"$31,408","$31,408",800,
 "Newman University
 Wichita, KS",,All Others,Somewhat Selective,D2,"$26,030","$26,030",1045,
 "Niagara University
-Niagara University, NY",,All Others,Somewhat Selective,D1,"$29,900","$29,900",2833,
+Niagara University, NY",NU743,All Others,Somewhat Selective,D1,"$29,900","$29,900",2833,
 "Nicholls State University
-Thibodaux, LA",,Somewhat Competitive,Somewhat Selective,D1,"$7,348","$18,279",4769,
+Thibodaux, LA",NSU438,Somewhat Competitive,Somewhat Selective,D1,"$7,348","$18,279",4769,
 "Nichols College
 Dudley, MA",,Somewhat Competitive,All Others,D3,"$47,300","$47,300",1180,
 "Norfolk State University
-Norfolk, VA",,All Others,All Others,D1,"$8,366","$20,124",4416,
+Norfolk, VA",NSU1249,All Others,All Others,D1,"$8,366","$20,124",4416,
 "North Arkansas College
 Harrison, AR",,Competitive,All Others,JC,"$2,616","$4,320",1137,
 "North Carolina A&T State University
-Greensboro, NC",,All Others,All Others,D1,"$5,972","$18,732",8423,
+Greensboro, NC",NCAATSU841,All Others,All Others,D1,"$5,972","$18,732",8423,
 "North Carolina Central University
 Durham, NC",,All Others,All Others,D1,"$5,755","$17,793",5035,
 "North Carolina State University
-Raleigh, NC",,Most Competitive,Selective,D1,"$8,581","$24,932",21402,
+Raleigh, NC",NCSU847,Most Competitive,Selective,D1,"$8,581","$24,932",21402,
 "North Carolina Wesleyan College
 Rocky Mount, NC",,Somewhat Competitive,All Others,D3,"$28,150","$28,150",1529,
 "North Central College
@@ -1882,7 +1882,7 @@ Minneapolis, MN",,All Others,All Others,D3,"$21,586","$21,586",889,
 "North Dakota State College of Science
 Wahpeton, ND",,All Others,All Others,JC,"$4,571","$10,850",1706,
 "North Dakota State University
-Fargo, ND",,Most Competitive,Selective,D1,"$8,098","$19,392",10865,
+Fargo, ND",NDSU881,Most Competitive,Selective,D1,"$8,098","$19,392",10865,
 "North Greenville University
 Tigerville, SC",,Somewhat Competitive,Somewhat Selective,D2,"$16,290","$16,290",2113,
 "North Idaho College
@@ -1910,7 +1910,7 @@ Tahlequah, OK",,Competitive,Somewhat Selective,D2,"$5,547","$12,897",5045,
 "Northern Essex Community College
 Haverhill, MA",,All Others,All Others,JC,"$4,560","$10,344",2298,
 "Northern Illinois University
-Dekalb, IL",,Somewhat Competitive,Somewhat Selective,D1,"$14,295","$23,761",13489,
+Dekalb, IL",NIU271,Somewhat Competitive,Somewhat Selective,D1,"$14,295","$23,761",13489,
 "Northern Kentucky University
 Highland Heights, KY",,All Others,Somewhat Selective,D1,"$9,120","$17,856",9433,
 "Northern Oklahoma College
@@ -1946,7 +1946,7 @@ Alva, OK",,Most Competitive,All Others,D2,"$6,112","$12,562",1415,
 "Northwestern State University of Louisiana
 Natchitoches, LA",,Competitive,Somewhat Selective,D1,"$7,006","$17,794",4927,
 "Northwestern University
-Evanston, IL",,Most Competitive,Most Selective,D1,"$49,047","$49,047",8398,
+Evanston, IL",NU272,Most Competitive,Most Selective,D1,"$49,047","$49,047",8398,
 "Northwood University - Michigan
 Midland, MI",,Competitive,Somewhat Selective,D2,"$24,170","$24,170",1767,
 "Norwich University
@@ -1966,7 +1966,7 @@ Oakland City, IN",,Somewhat Competitive,Somewhat Selective,D2,"$22,800","$22,800
 "Oakland Community College
 Bloomfield Hills, MI",,Most Competitive,All Others,JC,"$5,235","$7,305",7012,
 "Oakland University
-Rochester, MI",,All Others,Somewhat Selective,D1,"$11,344","$23,522",12454,
+Rochester, MI",OU547,All Others,Somewhat Selective,D1,"$11,344","$23,522",12454,
 "Oakton Community College
 Des Plaines, IL",,Competitive,All Others,JC,"$8,878","$10,866",2947,
 "Oakwood University
@@ -1990,7 +1990,7 @@ Columbus, OH",,Most Competitive,Selective,D1,"$10,037","$27,365",40613,
 "Ohio State University - Newark
 Newark, OH",,All Others,Somewhat Selective,D3,"$7,140","$24,468",1993,
 "Ohio University
-Athens, OH",,Competitive,Selective,D1,"$11,548","$20,512",17019,
+Athens, OH",OU895,Competitive,Selective,D1,"$11,548","$20,512",17019,
 "Ohio University - Chillicothe
 Chillicothe, OH",,All Others,All Others,Other,"$5,060","$9,596",2300,
 "Ohio Valley University
@@ -2008,7 +2008,7 @@ Oklahoma City, OK",,Most Competitive,Selective,NAIA,"$30,726","$30,726",1630,
 "Oklahoma Panhandle State University
 Goodwell, OK",,All Others,Somewhat Selective,D2,"$7,461","$7,461",964,
 "Oklahoma State University
-Stillwater, OK",,Most Competitive,Selective,D1,"$7,778","$20,978",18201,
+Stillwater, OK",OSU944,Most Competitive,Selective,D1,"$7,778","$20,978",18201,
 "Oklahoma Wesleyan University
 Bartlesville, OK",,Competitive,Somewhat Selective,NAIA,"$24,108","$24,108",602,
 "Olivet College
@@ -2026,7 +2026,7 @@ Costa Mesa, CA",,Somewhat Competitive,All Others,JC,"$1,184","$6,584",8589,
 "Oregon Institute of Technology
 Klamath Falls, OR",,Most Competitive,Selective,NAIA,"$8,838","$24,825",2300,
 "Oregon State University
-Corvallis, OR",,Most Competitive,Selective,D1,"$10,107","$28,767",18477,
+Corvallis, OR",OSU967,Most Competitive,Selective,D1,"$10,107","$28,767",18477,
 "Otero Junior College
 La Junta, CO",,Most Competitive,All Others,JC,"$3,412","$5,642",670,
 "Ottawa University
@@ -2046,7 +2046,7 @@ New York, NY",,Somewhat Competitive,Somewhat Selective,D2,"$41,333","$41,333",72
 "Pacific Lutheran University
 Tacoma, WA",,Somewhat Competitive,Selective,D3,"$37,950","$37,950",2822,
 "Pacific University
-Forest Grove, OR",,Competitive,Selective,D3,"$39,858","$39,858",1797,
+Forest Grove, OR",UOTP66,Competitive,Selective,D3,"$39,858","$39,858",1797,
 "Paine College
 Augusta, GA",,All Others,All Others,D2,"$14,224","$14,224",783,
 "Palm Beach Atlantic University
@@ -2072,7 +2072,7 @@ Martinsville, VA",,Competitive,All Others,JC,"$4,360","$10,198",1437,
 "Pearl River Community College
 Poplarville, MS",,Competitive,All Others,JC,"$2,855","$5,253",3127,
 "Penn State
-University Park, PA",,Somewhat Competitive,Selective,D1,"$17,514","$31,346",39357,
+University Park, PA",PSU990,Somewhat Competitive,Selective,D1,"$17,514","$31,346",39357,
 "Penn State Abington
 Abington, PA",,Competitive,Somewhat Selective,D3,"$13,954","$21,266",3117,
 "Penn State Altoona
@@ -2148,7 +2148,7 @@ Claremont, CA",,Somewhat Competitive,Most Selective,D3,"$47,620","$47,620",1638,
 "Porterville College
 Porterville, CA",,All Others,All Others,JC,"$1,322","$8,098",1690,
 "Portland State University
-Portland, OR",,All Others,Somewhat Selective,D1,"$8,034","$24,009",14561,
+Portland, OR",PSU969,All Others,Somewhat Selective,D1,"$8,034","$24,009",14561,
 "Post University
 Waterbury, CT",,Competitive,All Others,D2,"$20,925","$20,925",2812,
 "Potomac State College of West Virginia University
@@ -2156,25 +2156,25 @@ Keyser, WV",,Competitive,All Others,JC,"$3,864","$10,080",1235,
 "Prairie State College
 Chicago Heights, IL",,Competitive,All Others,JC,"$7,800","$9,240",1774,
 "Prairie View A & M University
-Prairie View, TX",,All Others,All Others,D1,"$9,745","$22,272",6313,
+Prairie View, TX",PVAMU1170,All Others,All Others,D1,"$9,745","$22,272",6313,
 "Pratt Community College
 Pratt, KS",,Competitive,All Others,JC,"$3,268","$3,624",723,
 "Pratt Institute
 Brooklyn, NY",,Somewhat Competitive,Selective,JC,"$46,586","$46,586",3168,
 "Presbyterian College
-Clinton, SC",,Somewhat Competitive,Selective,D1,"$36,130","$36,130",1078,
+Clinton, SC",PC1097,Somewhat Competitive,Selective,D1,"$36,130","$36,130",1078,
 "Presentation College
 Aberdeen, SD",,All Others,All Others,NAIA,"$18,358","$18,358",503,
 "Prince George's Community College
 Largo, MD",,All Others,All Others,JC,"$5,762","$8,090",3833,
 "Princeton University
-Princeton, NJ",,All Others,Most Selective,D1,"$43,450","$43,450",5275,
+Princeton, NJ",PU699,All Others,Most Selective,D1,"$43,450","$43,450",5275,
 "Principia College
 Elsah, IL",,All Others,Selective,D3,"$27,440","$27,440",486,
 "Providence College
-Providence, RI",,All Others,Selective,D1,"$45,400","$45,400",3717,
+Providence, RI",PC1085,All Others,Selective,D1,"$45,400","$45,400",3717,
 "Purdue University
-West Lafayette, IN",,Most Competitive,Selective,D1,"$10,002","$28,804",28419,
+West Lafayette, IN",PU322,Most Competitive,Selective,D1,"$10,002","$28,804",28419,
 "Purdue University- Northwest
 Hammond, IN",,Somewhat Competitive,Somewhat Selective,D2,"$6,868","$15,516",4905,
 "Queens University of Charlotte
@@ -2184,11 +2184,11 @@ Bayside, NY",,All Others,All Others,JC,"$5,210","$8,090",9551,
 "Quincy University
 Quincy, IL",,Competitive,Somewhat Selective,D2,"$26,998","$26,998",1019,
 "Quinnipiac University
-Hamden, CT",,All Others,Selective,D1,"$43,640","$43,640",6673,
+Hamden, CT",QU145,All Others,Selective,D1,"$43,640","$43,640",6673,
 "Quinsigamond Community College
 Worcester, MA",,Competitive,All Others,JC,"$5,302","$10,246",3337,
 "Radford University
-Radford, VA",,Somewhat Competitive,Somewhat Selective,D1,"$9,809","$22,093",8507,
+Radford, VA",RU1251,Somewhat Competitive,Somewhat Selective,D1,"$9,809","$22,093",8507,
 "Rainy River Community College
 International Falls, MN",,Somewhat Competitive,All Others,JC,"$5,325","$6,507",232,
 "Ramapo College of New Jersey
@@ -2220,7 +2220,7 @@ Memphis, TN",,Somewhat Competitive,Most Selective,D3,"$44,632","$44,632",2016,
 "Richard Bland College
 Petersburg, VA",,Competitive,All Others,JC,"$5,493","$15,236",927,
 "Rider University
-Lawrenceville, NJ",,All Others,Somewhat Selective,D1,"$38,360","$38,360",3791,
+Lawrenceville, NJ",RU700,All Others,Somewhat Selective,D1,"$38,360","$38,360",3791,
 "Ridgewater College
 Willmar, MN",,Somewhat Competitive,All Others,JC,"$5,406","$5,406",2063,
 "Rio Hondo College
@@ -2238,7 +2238,7 @@ Harriman, TN",,Competitive,All Others,JC,"$3,906","$15,180",2358,
 "Roanoke College
 Salem, VA",,All Others,Somewhat Selective,D3,"$39,791","$39,791",1978,
 "Robert Morris University - Illinois
-Chicago, IL",,Somewhat Competitive,All Others,NAIA,"$25,200","$25,200",2666,
+Chicago, IL",RMU308,Somewhat Competitive,All Others,NAIA,"$25,200","$25,200",2666,
 "Robert Morris University - Pennsylvania
 Moon Township, PA",,Somewhat Competitive,Somewhat Selective,D1,"$27,194","$27,194",3969,
 "Robert Morris University - Springfield
@@ -2286,7 +2286,7 @@ Newark, NJ",,Somewhat Competitive,Somewhat Selective,D3,"$13,597","$28,987",5943
 "Sacramento City College
 Sacramento, CA",,Most Competitive,All Others,JC,"$1,104","$7,440",6063,
 "Sacred Heart University
-Fairfield, CT",,All Others,Somewhat Selective,D1,"$37,170","$37,170",4232,
+Fairfield, CT",SHU146,All Others,Somewhat Selective,D1,"$37,170","$37,170",4232,
 "Saddleback College
 Mission Viejo, CA",,Most Competitive,All Others,JC,"$1,326","$5,750",6015,
 "Saginaw Valley State University
@@ -2296,11 +2296,11 @@ Manchester, NH",,Most Competitive,Somewhat Selective,D2,"$37,904","$37,904",1915
 "Saint Augustine's University
 Raleigh, NC",,All Others,All Others,D2,"$17,890","$17,890",1001,
 "Saint Francis University
-Loretto, PA",,Somewhat Competitive,Somewhat Selective,D1,"$32,178","$32,178",1584,
+Loretto, PA",SFU993,Somewhat Competitive,Somewhat Selective,D1,"$32,178","$32,178",1584,
 "Saint Joseph's College of Maine
 Standish, ME",,Competitive,Somewhat Selective,D3,"$32,620","$32,620",951,
 "Saint Joseph's University
-Philadelphia, PA",,Somewhat Competitive,Selective,D1,"$42,180","$42,180",4671,
+Philadelphia, PA",SJU994,Somewhat Competitive,Selective,D1,"$42,180","$42,180",4671,
 "Saint Katherine College
 San Marcos, CA",,Most Competitive,Somewhat Selective,NCCAA,"$19,500","$19,500",50,
 "Saint Leo University
@@ -2338,9 +2338,9 @@ Salt Lake City, UT",,Most Competitive,All Others,JC,"$3,569","$11,337",7894,
 "Salve Regina University
 Newport, RI",,Competitive,Selective,D3,"$36,740","$36,740",1959,
 "Sam Houston State University
-Huntsville, TX",,Competitive,Somewhat Selective,D1,"$7,618","$16,978",13552,
+Huntsville, TX",SHSU1172,Competitive,Somewhat Selective,D1,"$7,618","$16,978",13552,
 "Samford University
-Birmingham, AL",,Competitive,Selective,D1,"$28,370","$28,370",2915,
+Birmingham, AL",SU6,Competitive,Selective,D1,"$28,370","$28,370",2915,
 "San Bernardino Valley College
 San Bernardino, CA",,Somewhat Competitive,All Others,JC,"$1,238","$1,238",4673,
 "San Diego Christian College
@@ -2350,7 +2350,7 @@ San Diego, CA",,Somewhat Competitive,All Others,JC,"$1,142","$4,670",3666,
 "San Diego Mesa College
 San Diego, CA",,Somewhat Competitive,All Others,JC,"$1,142","$4,670",5874,
 "San Diego State University
-San Diego, CA",,Most Competitive,Selective,D1,"$6,976","$18,136",25096,
+San Diego, CA",SDSU70,Most Competitive,Selective,D1,"$6,976","$18,136",25096,
 "San Francisco State University
 San Francisco, CA",,Competitive,Somewhat Selective,D2,"$6,476","$17,636",21713,
 "San Jacinto College
@@ -2360,13 +2360,13 @@ Stockton, CA",,Most Competitive,All Others,JC,"$1,104","$6,312",7526,
 "San Jose City College
 San Jose, CA",,Competitive,All Others,JC,"$1,338","$7,010",2251,
 "San Jose State University
-San Jose, CA",,Competitive,Somewhat Selective,D1,"$7,378","$18,538",21341,
+San Jose, CA",SJSU72,Competitive,Somewhat Selective,D1,"$7,378","$18,538",21341,
 "Santa Ana College
 Santa Ana, CA",,Most Competitive,All Others,JC,"$1,142","$6,902",4948,
 "Santa Barbara City College
 Santa Barbara, CA",,Somewhat Competitive,All Others,JC,"$1,374","$8,086",8356,
 "Santa Clara University
-Santa Clara, CA",,All Others,Selective,D1,"$45,300","$45,300",5389,
+Santa Clara, CA",SCU73,All Others,Selective,D1,"$45,300","$45,300",5389,
 "Santa Fe College (Florida)
 Gainesville, FL",,Most Competitive,All Others,JC,"$2,537","$7,620",15000,
 "Santa Monica College
@@ -2382,7 +2382,7 @@ Bronxville, NY",,All Others,Selective,D3,"$51,038","$51,038",1415,
 "Sauk Valley Community College
 Dixon, IL",,Competitive,All Others,JC,"$9,110","$9,866",933,
 "Savannah State University
-Savannah, GA",,All Others,All Others,D1,"$5,644","$15,900",4196,
+Savannah, GA",SSU214,All Others,All Others,D1,"$5,644","$15,900",4196,
 "Schoolcraft College
 Livonia, MI",,Most Competitive,All Others,JC,"$4,854","$6,834",3793,
 "Schreiner University
@@ -2390,13 +2390,13 @@ Kerrville, TX",,Somewhat Competitive,Selective,D3,"$25,086","$25,086",1308,
 "Scottsdale Community College
 Scottsdale, AZ",,Competitive,All Others,JC,"$2,046","$7,830",2985,
 "Seattle University
-Seattle, WA",,All Others,Selective,D1,"$39,690","$39,690",4224,
+Seattle, WA",SU1284,All Others,Selective,D1,"$39,690","$39,690",4224,
 "Seminole State College
 Seminole, OK",,Somewhat Competitive,All Others,JC,"$3,808","$8,968",939,
 "Seminole State College of Florida
 Sanford, FL",,Most Competitive,All Others,JC,"$3,131","$11,456",6322,
 "Seton Hall University
-South Orange, NJ",,All Others,Somewhat Selective,D1,"$38,072","$38,072",5348,
+South Orange, NJ",SHU703,All Others,Somewhat Selective,D1,"$38,072","$38,072",5348,
 "Seton Hill University
 Greensburg, PA",,Somewhat Competitive,Somewhat Selective,D2,"$32,420","$32,420",1409,
 "Sewanee - The University of the South
@@ -2426,7 +2426,7 @@ Shoreline, WA",,Somewhat Competitive,All Others,JC,"$3,730","$6,451",3153,
 "Shorter University
 Rome, GA",,Most Competitive,Somewhat Selective,D2,"$20,846","$20,846",1319,
 "Siena College
-Loudonville, NY",,All Others,Selective,D1,"$33,415","$33,415",2990,
+Loudonville, NY",SC747,All Others,Selective,D1,"$33,415","$33,415",2990,
 "Siena Heights University
 Adrian, MI",,Somewhat Competitive,All Others,NAIA,"$23,750","$23,750",1245,
 "Sierra College
@@ -2458,9 +2458,9 @@ Fairfield, CA",,Most Competitive,All Others,JC,"$1,416","$7,386",3340,
 "Sonoma State University
 Rohnert Park, CA",,Most Competitive,Somewhat Selective,D2,"$7,330","$18,490",7802,
 "South Carolina State University
-Orangeburg, SC",,All Others,All Others,D1,"$10,088","$19,856",2581,
+Orangeburg, SC",SCSU1099,All Others,All Others,D1,"$10,088","$19,856",2581,
 "South Dakota State University
-Brookings, SD",,All Others,Selective,D1,"$8,172","$11,053",8620,
+Brookings, SD",SDSU1122,All Others,Selective,D1,"$8,172","$11,053",8620,
 "South Florida State College
 Avon Park, FL",,Competitive,All Others,JC,"$3,165","$11,859",958,
 "South Georgia State College
@@ -2472,7 +2472,7 @@ South Holland, IL",,Most Competitive,All Others,JC,"$10,786","$12,173",1725,
 "Southeast Community College Area
 Lincoln, NE",,Competitive,All Others,JC,"$3,218","$3,932",4572,
 "Southeast Missouri State University
-Cape Girardeau, MO",,All Others,Somewhat Selective,D1,"$6,990","$12,375",8168,
+Cape Girardeau, MO",SMSU625,All Others,Somewhat Selective,D1,"$6,990","$12,375",8168,
 "Southeastern Community College - Iowa
 West Burlington, IA",,Competitive,All Others,JC,"$4,950","$5,100",1427,
 "Southeastern Community College - North Carolina
@@ -2482,7 +2482,7 @@ Harrisburg, IL",,Competitive,All Others,JC,"$4,800","$5,040",725,
 "Southeastern Louisiana University
 Hammond, LA",,All Others,Somewhat Selective,D1,"$7,280","$19,758",9732,
 "Southeastern Oklahoma State University
-Durant, OK",,All Others,Somewhat Selective,D2,"$5,975","$14,613",2718,
+Durant, OK",SOSU955,All Others,Somewhat Selective,D2,"$5,975","$14,613",2718,
 "Southeastern University
 Lakeland, FL",,Competitive,Somewhat Selective,NAIA,"$22,840","$22,840",2715,
 "Southern Arkansas University
@@ -2510,7 +2510,7 @@ Wadley, AL",,Most Competitive,All Others,JC,"$3,752","$6,972",2727,
 "Southern University & A&M College
 Baton Rouge, LA",,All Others,All Others,D1,"$7,346","$17,696",4446,
 "Southern Utah University
-Cedar City, UT",,Somewhat Competitive,Selective,D1,"$6,300","$19,132",5131,
+Cedar City, UT",SUU1228,Somewhat Competitive,Selective,D1,"$6,300","$19,132",5131,
 "Southern Vermont College
 Bennington, VT",,Somewhat Competitive,All Others,D3,"$23,260","$23,260",426,
 "Southern Virginia University
@@ -2608,19 +2608,19 @@ Sparkill, NY",,All Others,Somewhat Selective,D2,"$28,740","$28,740",1147,
 "St. Thomas University - Florida
 Miami Gardens, FL",,Competitive,Somewhat Selective,NAIA,"$27,960","$27,960",878,
 "Stanford University
-Stanford, CA",,Most Competitive,Most Selective,D1,"$46,320","$46,320",7019,
+Stanford, CA",SU75,Most Competitive,Most Selective,D1,"$46,320","$46,320",7019,
 "State College of Florida - Manatee-Sarasota
 Bradenton, FL",,Most Competitive,All Others,JC,"$3,074","$11,606",4173,
 "State Fair Community College
 Sedalia, MO",,Somewhat Competitive,All Others,JC,"$3,600","$5,040",2506,
 "Stephen F Austin State University
-Nacogdoches, TX",,Somewhat Competitive,Somewhat Selective,D1,"$7,560","$16,920",9335,
+Nacogdoches, TX",SFASU1174,Somewhat Competitive,Somewhat Selective,D1,"$7,560","$16,920",9335,
 "Stephens College
 Columbia, MO",,All Others,Selective,NAIA,"$29,176","$29,176",556,
 "Sterling College - Kansas
 Sterling, KS",,All Others,Somewhat Selective,NAIA,"$22,950","$22,950",657,
 "Stetson University
-DeLand, FL",,Most Competitive,Selective,D1,"$41,590","$41,590",2804,
+DeLand, FL",SU186,Most Competitive,Selective,D1,"$41,590","$41,590",2804,
 "Stevens Institute of Technology
 Hoboken, NJ",,Most Competitive,Selective,D3,"$47,190","$47,190",2842,
 "Stevenson University
@@ -2716,7 +2716,7 @@ Stone Ridge, NY",,Somewhat Competitive,All Others,JC,"$4,942","$9,172",1584,
 "SUNY University at Albany
 Albany, NY",,Competitive,Somewhat Selective,D1,"$8,996","$22,116",12191,
 "SUNY University at Buffalo
-Buffalo, NY",,Competitive,Selective,D1,"$9,381","$24,461",18166,
+Buffalo, NY",UAB732,Competitive,Selective,D1,"$9,381","$24,461",18166,
 "SUNY Westchester Community College
 Valhalla, NY",,All Others,All Others,JC,"$4,723","$12,213",7546,
 "Surry Community College
@@ -2730,7 +2730,7 @@ Swarthmore, PA",,All Others,Most Selective,D3,"$47,442","$47,442",1534,
 "Sweet Briar College
 Sweet Briar, VA",,Most Competitive,Selective,D3,"$34,935","$34,935",664,
 "Syracuse University
-Syracuse, NY",,Competitive,Selective,D1,"$43,318","$43,318",14532,
+Syracuse, NY",SU749,Competitive,Selective,D1,"$43,318","$43,318",14532,
 "Tabor College
 Hillsboro, KS",,Somewhat Competitive,Somewhat Selective,NAIA,"$25,320","$25,320",569,
 "Taft College
@@ -2746,19 +2746,19 @@ Upland, IN",,Most Competitive,Selective,NAIA,"$30,270","$30,270",1824,
 "Temple College
 Temple, TX",,Most Competitive,All Others,JC,"$4,476","$6,396",1769,
 "Tennessee State University
-Nashville, TN",,All Others,Somewhat Selective,D1,"$7,112","$19,832",5678,
+Nashville, TN",TSU1141,All Others,Somewhat Selective,D1,"$7,112","$19,832",5678,
 "Tennessee Technological University
-Cookeville, TN",,Somewhat Competitive,Selective,D1,"$8,011","$23,443",9264,
+Cookeville, TN",TTU1142,Somewhat Competitive,Selective,D1,"$8,011","$23,443",9264,
 "Tennessee Wesleyan University
 Athens, TN",,Somewhat Competitive,Somewhat Selective,NAIA,"$22,900","$22,900",919,
 "Texas A&M International University
 Laredo, TX",,Somewhat Competitive,Somewhat Selective,D2,"$6,635","$16,150",4279,
 "Texas A&M University
-College Station, TX",,Most Competitive,Selective,D1,"$10,176","$28,768",42129,
+College Station, TX",TAMU1175,Most Competitive,Selective,D1,"$10,176","$28,768",42129,
 "Texas A&M University - Commerce
 Commerce, TX",,All Others,Somewhat Selective,D2,"$6,202","$15,562",5482,
 "Texas A&M University - Corpus Christi
-Corpus Christi, TX",,Somewhat Competitive,Somewhat Selective,D1,"$7,976","$17,442",7130,
+Corpus Christi, TX",TAMUC1176,Somewhat Competitive,Somewhat Selective,D1,"$7,976","$17,442",7130,
 "Texas A&M University - Kingsville
 Kingsville, TX",,All Others,Somewhat Selective,D2,"$7,700","$20,191",6270,
 "Texas A&M University - Texarkana
@@ -2768,11 +2768,11 @@ Tyler, TX",,All Others,All Others,NAIA,"$10,008","$10,008",778,
 "Texas Lutheran University
 Seguin, TX",,Most Competitive,Somewhat Selective,D3,"$27,900","$27,900",1229,
 "Texas Southern University
-Houston, TX",,All Others,All Others,D1,"$8,726","$20,426",5842,
+Houston, TX",TSU1183,All Others,All Others,D1,"$8,726","$20,426",5842,
 "Texas State University
-San Marcos, TX",,Competitive,Somewhat Selective,D1,"$9,348","$20,268",26234,
+San Marcos, TX",TSU1184,Competitive,Somewhat Selective,D1,"$9,348","$20,268",26234,
 "Texas Tech University
-Lubbock, TX",,Most Competitive,Selective,D1,"$8,028","$17,388",25589,
+Lubbock, TX",TTU1185,Most Competitive,Selective,D1,"$8,028","$17,388",25589,
 "Texas Wesleyan University
 Fort Worth, TX",,Competitive,All Others,NAIA,"$24,454","$24,454",1424,
 "Texas Woman's University
@@ -2808,7 +2808,7 @@ Poplar Bluff, MO",,Most Competitive,All Others,JC,"$5,868","$7,164",2429,
 "Tiffin University
 Tiffin, OH",,Competitive,Somewhat Selective,D2,"$22,165","$22,165",1966,
 "Towson University
-Towson, MD",,Somewhat Competitive,Selective,D1,"$9,182","$20,788",16575,
+Towson, MD",TU471,Somewhat Competitive,Selective,D1,"$9,182","$20,788",16575,
 "Transylvania University
 Lexington, KY",,Somewhat Competitive,Selective,D3,"$34,370","$34,370",1010,
 "Treasure Valley Community College
@@ -2834,7 +2834,7 @@ Washington, DC",,Somewhat Competitive,Somewhat Selective,D3,"$22,780","$22,780",
 "Triton College
 River Grove, IL",,Competitive,All Others,JC,"$9,360","$11,630",3404,
 "Troy University
-Troy, AL",,Competitive,Somewhat Selective,D1,"$7,924","$14,812",9018,
+Troy, AL",TU8,Competitive,Somewhat Selective,D1,"$7,924","$14,812",9018,
 "Truett-McConnell Univesity
 Cleveland, GA",,All Others,Somewhat Selective,NAIA,"$18,000","$18,000",752,
 "Truman State University
@@ -2856,33 +2856,33 @@ Jackson, TN",,Competitive,Selective,D2,"$29,190","$29,190",1976,
 "United States Coast Guard Academy
 New London, CT",,Somewhat Competitive,Selective,D3,$942,$942,896,
 "United States Military Academy
-West Point, NY",,Somewhat Competitive,Most Selective,D1,$0,$0,4414,
+West Point, NY",USMAA750,Somewhat Competitive,Most Selective,D1,$0,$0,4414,
 "University of Akron
-Akron, OH",,Competitive,Somewhat Selective,D1,"$10,509","$19,040",15515,
+Akron, OH",UOA888,Competitive,Somewhat Selective,D1,"$10,509","$19,040",15515,
 "University of Alabama
 Tuscaloosa, AL",,Most Competitive,Selective,D1,"$10,170","$25,950",27737,
 "University of Alabama - Birmingham
-Birmingham, AL",,Most Competitive,Selective,D1,"$7,766","$17,654",8472,
+Birmingham, AL",UOAAB2,Most Competitive,Selective,D1,"$7,766","$17,654",8472,
 "University of Alabama - Huntsville
 Huntsville, AL",,Most Competitive,Selective,D2,"$9,128","$20,622",4304,
 "University of Antelope Valley
 Lancaster, CA",,All Others,All Others,NAIA,,,790,
 "University of Arizona
-Tucson, AZ",,Most Competitive,Selective,D1,"$11,403","$32,630",29529,
+Tucson, AZ",UOA23,Most Competitive,Selective,D1,"$11,403","$32,630",29529,
 "University of Arkansas
-Fayetteville, AR",,Competitive,Selective,D1,"$8,522","$21,826",19243,
+Fayetteville, AR",UOA29,Competitive,Selective,D1,"$8,522","$21,826",19243,
 "University of Arkansas at Monticello
 Monticello, AR",,Competitive,Somewhat Selective,D2,"$6,446","$12,296",2372,
 "University of Arkansas at Pine Bluff
-Pine Bluff, AR",,All Others,All Others,D1,"$6,538","$12,268",2188,
+Pine Bluff, AR",UOAAPB31,All Others,All Others,D1,"$6,538","$12,268",2188,
 "University of Bridgeport
 Bridgeport, CT",,Somewhat Competitive,All Others,D2,"$30,850","$30,850",2254,
 "University of California
-Berkeley, CA",,Most Competitive,Most Selective,D1,"$13,431","$38,139",26320,
+Berkeley, CA",UOCB52,Most Competitive,Most Selective,D1,"$13,431","$38,139",26320,
 "University of California - Davis
-Davis, CA",,Competitive,Selective,D1,"$13,951","$38,659",26810,
+Davis, CA",UOCD53,Competitive,Selective,D1,"$13,951","$38,659",26810,
 "University of California - Los Angeles - UCLA
-Los Angeles, CA",,Most Competitive,Most Selective,D1,"$12,763","$37,471",29033,
+Los Angeles, CA",UOCLA55,Most Competitive,Most Selective,D1,"$12,763","$37,471",29033,
 "University of California - Riverside
 Riverside, CA",,Somewhat Competitive,Somewhat Selective,D1,"$13,527","$38,235",18445,
 "University of California - San Diego
@@ -2890,9 +2890,9 @@ La Jolla, CA",,Most Competitive,Selective,D2,"$13,530","$38,238",24159,
 "University of California - Santa Barbara
 Santa Barbara, CA",,Most Competitive,Selective,D1,"$13,968","$38,676",19914,
 "University of Central Arkansas
-Conway, AR",,Somewhat Competitive,Selective,D1,"$7,889","$13,806",8172,
+Conway, AR",UOCA33,Somewhat Competitive,Selective,D1,"$7,889","$13,806",8172,
 "University of Central Florida
-Orlando, FL",,Most Competitive,Selective,D1,"$6,368","$22,467",36477,
+Orlando, FL",UOCF175,Most Competitive,Selective,D1,"$6,368","$22,467",36477,
 "University of Central Missouri
 Warrensburg, MO",,Competitive,Selective,D2,"$7,322","$13,767",8133,
 "University of Central Oklahoma
@@ -2900,69 +2900,69 @@ Edmond, OK",,Most Competitive,Somewhat Selective,D2,"$6,096","$14,972",10726,
 "University of Charleston
 Charleston, WV",,Competitive,Somewhat Selective,D2,"$26,100","$26,100",1355,
 "University of Chicago
-Chicago, IL",,Most Competitive,Most Selective,D3,"$51,351","$51,351",5674,
+Chicago, IL",UOC284,Most Competitive,Most Selective,D3,"$51,351","$51,351",5674,
 "University of Cincinnati - Clermont
 Batavia, OH",,All Others,All Others,USCAA,"$6,052","$13,284",1881,
 "University of Colorado - Colorado Springs
 Colorado Springs, CO",,Competitive,Selective,D2,"$7,692","$17,988",7363,
 "University of Connecticut
-Storrs, CT",,Somewhat Competitive,Selective,D1,"$13,366","$34,908",17677,
+Storrs, CT",UOC142,Somewhat Competitive,Selective,D1,"$13,366","$34,908",17677,
 "University of Connecticut - Avery Point
 Groton, CT",,Most Competitive,All Others,JC,"$11,324","$32,866",589,
 "University of Dallas
 Irving, TX",,All Others,Selective,D3,"$35,800","$35,800",1313,
 "University of Dayton
-Dayton, OH",,Somewhat Competitive,Selective,D1,"$39,090","$39,090",7898,
+Dayton, OH",UOD892,Somewhat Competitive,Selective,D1,"$39,090","$39,090",7898,
 "University of Delaware
-Newark, DE",,Competitive,Selective,D1,"$12,520","$31,420",17467,
+Newark, DE",UOD161,Competitive,Selective,D1,"$12,520","$31,420",17467,
 "University of Detroit Mercy
-Detroit, MI",,All Others,Somewhat Selective,D1,"$38,626","$38,626",2102,
+Detroit, MI",UODM543,All Others,Somewhat Selective,D1,"$38,626","$38,626",2102,
 "University of Dubuque
 Dubuque, IA",,Competitive,Somewhat Selective,D3,"$27,895","$27,895",1589,
 "University of Evansville
-Evansville, IN",,Somewhat Competitive,Selective,D1,"$32,946","$32,946",2266,
+Evansville, IN",UOE316,Somewhat Competitive,Selective,D1,"$32,946","$32,946",2266,
 "University of Findlay
 Findlay, OH",,Somewhat Competitive,Selective,D2,"$31,508","$31,508",2613,
 "University of Florida
-Gainesville, FL",,Most Competitive,Most Selective,D1,"$6,381","$28,659",29907,
+Gainesville, FL",UOF176,Most Competitive,Most Selective,D1,"$6,381","$28,659",29907,
 "University of Georgia
-Athens, GA",,Most Competitive,Selective,D1,"$11,622","$29,832",25371,
+Athens, GA",UOG208,Most Competitive,Selective,D1,"$11,622","$29,832",25371,
 "University of Great Falls
 Great Falls, MT",,Competitive,Somewhat Selective,NAIA,"$22,170","$22,170",627,
 "University of Hartford
-West Hartford, CT",,All Others,Somewhat Selective,D1,"$36,460","$36,460",4446,
+West Hartford, CT",UOH144,All Others,Somewhat Selective,D1,"$36,460","$36,460",4446,
 "University of Hawaii at Hilo
 Hilo, HI",,Most Competitive,Somewhat Selective,D2,"$7,332","$19,788",2726,
 "University of Hawaii at Manoa
-Honolulu, HI",,Competitive,Selective,D1,"$11,164","$31,216",11741,
+Honolulu, HI",UOHAM256,Competitive,Selective,D1,"$11,164","$31,216",11741,
 "University of Houston
-Houston, TX",,Most Competitive,Somewhat Selective,D1,"$8,759","$20,519",23974,
+Houston, TX",UOH1166,Most Competitive,Somewhat Selective,D1,"$8,759","$20,519",23974,
 "University of Houston - Victoria
 Victoria, TX",,Most Competitive,Somewhat Selective,NAIA,"$7,086","$18,804",1540,
 "University of Illinois
-Champaign, IL",,Most Competitive,Most Selective,D1,"$15,054","$30,214",31742,
+Champaign, IL",UOIAUC269,Most Competitive,Most Selective,D1,"$15,054","$30,214",31742,
 "University of Illinois at Chicago
-Chicago, IL",,All Others,Selective,D1,"$13,664","$26,520",15459,
+Chicago, IL",UOIAC267,All Others,Selective,D1,"$13,664","$26,520",15459,
 "University of Illinois at Springfield
 Springfield, IL",,Somewhat Competitive,Selective,D2,"$11,413","$20,938",1935,
 "University of Indianapolis
 Indianapolis, IN",,Most Competitive,Somewhat Selective,D2,"$26,290","$26,290",3364,
 "University of Iowa
-Iowa City, IA",,Competitive,Selective,D1,"$8,104","$27,890",19546,
+Iowa City, IA",UOI356,Competitive,Selective,D1,"$8,104","$27,890",19546,
 "University of Jamestown
 Jamestown, ND",,Competitive,Selective,NAIA,"$19,870","$19,870",839,
 "University of Kentucky
-Lexington, KY",,Most Competitive,Selective,D1,"$10,936","$24,268",20690,
+Lexington, KY",UOK406,Most Competitive,Selective,D1,"$10,936","$24,268",20690,
 "University of La Verne
 La Verne, CA",,Competitive,Somewhat Selective,D3,"$38,560","$38,560",3642,
 "University of Louisiana - Lafayette
-Lafayette, LA",,Most Competitive,Somewhat Selective,D1,"$8,256","$21,984",12498,
+Lafayette, LA",UOLAL432,Most Competitive,Somewhat Selective,D1,"$8,256","$21,984",12498,
 "University of Louisiana - Monroe
-Monroe, LA",,Competitive,Somewhat Selective,D1,"$7,658","$19,758",4916,
+Monroe, LA",UOLAM433,Competitive,Somewhat Selective,D1,"$7,658","$19,758",4916,
 "University of Louisville
-Louisville, KY",,Most Competitive,Selective,D1,"$10,744","$25,050",12494,
+Louisville, KY",UOL407,Most Competitive,Selective,D1,"$10,744","$25,050",12494,
 "University of Maine
-Orono, ME",,Somewhat Competitive,Somewhat Selective,D1,"$10,610","$28,880",8129,
+Orono, ME",UOM451,Somewhat Competitive,Somewhat Selective,D1,"$10,610","$28,880",8129,
 "University of Maine at Farmington
 Farmington, ME",,Competitive,Somewhat Selective,D3,"$9,217","$18,305",1658,
 "University of Maine at Presque Isle
@@ -2976,11 +2976,11 @@ Fredericksburg, VA",,Somewhat Competitive,Selective,D3,"$11,130","$25,294",3666,
 "University of Maryland
 College Park, MD",,Competitive,Selective,D1,"$9,996","$31,144",25027,
 "University of Maryland - Baltimore County
-Baltimore, MD",,All Others,Selective,D1,"$11,006","$23,770",9653,
+Baltimore, MD",UOMBC466,All Others,Selective,D1,"$11,006","$23,770",9653,
 "University of Maryland Eastern Shore
-Princess Anne, MD",,All Others,All Others,D1,"$7,625","$16,687",3192,
+Princess Anne, MD",UOMES468,All Others,All Others,D1,"$7,625","$16,687",3192,
 "University of Massachusetts - Amherst
-Amherst, MA",,Somewhat Competitive,Selective,D1,"$14,596","$31,420",20684,
+Amherst, MA",UOMA489,Somewhat Competitive,Selective,D1,"$14,596","$31,420",20684,
 "University of Massachusetts - Boston
 Boston, MA",,Somewhat Competitive,Somewhat Selective,D3,"$12,682","$29,920",9178,
 "University of Massachusetts - Dartmouth
@@ -2988,13 +2988,13 @@ North Dartmouth, MA",,Somewhat Competitive,Somewhat Selective,D3,"$12,588","$26,
 "University of Massachusetts - Lowell
 Lowell, MA",,All Others,Somewhat Selective,D1,"$13,427","$29,125",9443,
 "University of Memphis
-Memphis, TN",,Somewhat Competitive,Somewhat Selective,D1,"$8,903","$20,615",12372,
+Memphis, TN",UOM1136,Somewhat Competitive,Somewhat Selective,D1,"$8,903","$20,615",12372,
 "University of Michigan
-Ann Arbor, MI",,Most Competitive,Most Selective,D1,"$13,856","$43,476",27395,
+Ann Arbor, MI",UOM545,Most Competitive,Most Selective,D1,"$13,856","$43,476",27395,
 "University of Michigan - Dearborn
 Dearborn, MI",,Somewhat Competitive,Selective,NAIA,"$11,304","$23,520",4843,
 "University of Minnesota
-Minneapolis, MN",,Most Competitive,Selective,D1,"$13,790","$22,210",28904,
+Minneapolis, MN",UOM577,Most Competitive,Selective,D1,"$13,790","$22,210",28904,
 "University of Minnesota - Crookston
 Crookston, MN",,All Others,Somewhat Selective,D2,"$11,646","$11,646",1349,
 "University of Minnesota - Duluth
@@ -3002,11 +3002,11 @@ Duluth, MN",,Competitive,Selective,D2,"$13,082","$17,032",8869,
 "University of Minnesota - Morris
 Morris, MN",,Competitive,Selective,D3,"$12,846","$12,846",1761,
 "University of Mississippi
-University, MS",,Competitive,Selective,D1,"$7,444","$20,674",16665,
+University, MS",UOM609,Competitive,Selective,D1,"$7,444","$20,674",16665,
 "University of Missouri
-Columbia, MO",,Most Competitive,Selective,D1,"$9,509","$25,166",25859,
+Columbia, MO",UOM621,Most Competitive,Selective,D1,"$9,509","$25,166",25859,
 "University of Missouri - Kansas City
-Kansas City, MO",,All Others,Selective,D1,"$7,837","$18,366",6817,
+Kansas City, MO",UOMC622,All Others,Selective,D1,"$7,837","$18,366",6817,
 "University of Missouri - St. Louis
 Saint Louis, MO",,Most Competitive,Somewhat Selective,D2,"$9,394","$23,812",6071,
 "University of Mobile
@@ -3024,57 +3024,57 @@ Lincoln, NE",,Most Competitive,Selective,D1,"$8,367","$22,534",18660,
 "University of Nebraska at Kearney
 Kearney, NE",,Competitive,Somewhat Selective,D2,"$6,711","$12,981",4668,
 "University of Nebraska at Omaha
-Omaha, NE",,Most Competitive,Selective,D1,"$6,898","$18,610",9417,
+Omaha, NE",UONO669,Most Competitive,Selective,D1,"$6,898","$18,610",9417,
 "University of Nevada - Las Vegas
-Las Vegas, NV",,Competitive,Somewhat Selective,D1,"$6,943","$20,853",17444,
+Las Vegas, NV",UONLV682,Competitive,Somewhat Selective,D1,"$6,943","$20,853",17444,
 "University of Nevada - Reno
-Reno, NV",,Competitive,Somewhat Selective,D1,"$6,902","$20,812",13999,
+Reno, NV",UONR683,Competitive,Somewhat Selective,D1,"$6,902","$20,812",13999,
 "University of New England
 Biddeford, ME",,Somewhat Competitive,Somewhat Selective,D3,"$34,760","$34,760",2202,
 "University of New Haven
 West Haven, CT",,Most Competitive,Somewhat Selective,D2,"$35,650","$35,650",4674,
 "University of New Mexico
-Albuquerque, NM",,Somewhat Competitive,Somewhat Selective,D1,"$7,071","$21,302",16446,
+Albuquerque, NM",UONM723,Somewhat Competitive,Somewhat Selective,D1,"$7,071","$21,302",16446,
 "University of North Alabama
 Florence, AL",,Most Competitive,Somewhat Selective,D2,"$7,774","$13,870",4648,
 "University of North Carolina - Greensboro
-Greensboro, NC",,Competitive,Selective,D1,"$6,745","$21,607",12773,
+Greensboro, NC",UONCAG846,Competitive,Selective,D1,"$6,745","$21,607",12773,
 "University of North Carolina - Wilmington
-Wilmington, NC",,Somewhat Competitive,Selective,D1,"$6,691","$20,557",11690,
+Wilmington, NC",UONCAW848,Somewhat Competitive,Selective,D1,"$6,691","$20,557",11690,
 "University of North Carolina at Chapel Hill
-Chapel Hill, NC",,Competitive,Most Selective,D1,"$8,591","$33,673",17570,
+Chapel Hill, NC",UONCACH844,Competitive,Most Selective,D1,"$8,591","$33,673",17570,
 "University of North Carolina at Charlotte
-Charlotte, NC",,Somewhat Competitive,Selective,D1,"$6,532","$19,703",18983,
+Charlotte, NC",UONCAC845,Somewhat Competitive,Selective,D1,"$6,532","$19,703",18983,
 "University of North Carolina at Pembroke
 Pembroke, NC",,Somewhat Competitive,Somewhat Selective,D2,"$5,564","$16,012",4400,
 "University of North Dakota
 Grand Forks, ND",,All Others,Selective,D1,"$7,965","$18,899",9079,
 "University of North Florida
-Jacksonville, FL",,Competitive,Selective,D1,"$6,394","$20,798",9901,
+Jacksonville, FL",UONF184,Competitive,Selective,D1,"$6,394","$20,798",9901,
 "University of North Georgia
 Dahlonega, GA",,Most Competitive,Somewhat Selective,D2,"$5,600","$15,421",4889,
 "University of North Texas
-Denton, TX",,Most Competitive,Selective,D1,"$9,730","$19,090",23762,
+Denton, TX",UONT1169,Most Competitive,Selective,D1,"$9,730","$19,090",23762,
 "University of Northern Colorado
-Greeley, CO",,All Others,Somewhat Selective,D1,"$8,166","$19,752",8339,
+Greeley, CO",UONC127,All Others,Somewhat Selective,D1,"$8,166","$19,752",8339,
 "University of Northern Iowa
-Cedar Falls, IA",,Competitive,Selective,D1,"$7,817","$18,005",9122,
+Cedar Falls, IA",UONI358,Competitive,Selective,D1,"$7,817","$18,005",9122,
 "University of Northwestern - St. Paul
 Saint Paul, MN",,Somewhat Competitive,Selective,D3,"$28,730","$28,730",1931,
 "University of Northwestern Ohio
 Lima, OH",,All Others,All Others,NAIA,"$9,930","$9,930",3628,
 "University of Notre Dame
-South Bend, IN",,Most Competitive,Most Selective,D1,"$47,929","$47,929",8430,
+South Bend, IN",UOND321,Most Competitive,Most Selective,D1,"$47,929","$47,929",8430,
 "University of Oklahoma
-Norman, OK",,Most Competitive,Selective,D1,"$10,090","$23,476",18006,
+Norman, OK",UOO943,Most Competitive,Selective,D1,"$10,090","$23,476",18006,
 "University of Oregon
-Eugene, OR",,Most Competitive,Selective,D1,"$10,289","$32,024",18673,
+Eugene, OR",UOO966,Most Competitive,Selective,D1,"$10,289","$32,024",18673,
 "University of Pennsylvania - Penn
-Philadelphia, PA",,Somewhat Competitive,Most Selective,D1,"$49,536","$49,536",10406,
+Philadelphia, PA",UOP989,Somewhat Competitive,Most Selective,D1,"$49,536","$49,536",10406,
 "University of Pikeville
 Pikeville, KY",,All Others,Somewhat Selective,NAIA,"$18,840","$18,840",1295,
 "University of Pittsburgh
-Pittsburgh, PA",,Somewhat Competitive,Selective,D1,"$18,192","$28,958",17694,
+Pittsburgh, PA",UOP991,Somewhat Competitive,Selective,D1,"$18,192","$28,958",17694,
 "University of Pittsburgh - Bradford
 Bradford, PA",,Somewhat Competitive,Somewhat Selective,D3,"$13,372","$24,188",1385,
 "University of Pittsburgh - Greensburg
@@ -3086,7 +3086,7 @@ Tacoma, WA",,All Others,Selective,D3,"$44,976","$44,976",2525,
 "University of Redlands
 Redlands, CA",,Most Competitive,Selective,D3,"$44,900","$44,900",2911,
 "University of Rhode Island
-Kingston, RI",,All Others,Somewhat Selective,D1,"$12,862","$28,852",12139,
+Kingston, RI",UORI1086,All Others,Somewhat Selective,D1,"$12,862","$28,852",12139,
 "University of Rio Grande
 Rio Grande, OH",,Competitive,Somewhat Selective,NAIA,"$23,860","$23,860",1721,
 "University of Rochester
@@ -3098,7 +3098,7 @@ West Hartford, CT",,Competitive,Somewhat Selective,D3,"$36,200","$36,200",761,
 "University of Saint Mary
 Leavenworth, KS",,Somewhat Competitive,Somewhat Selective,NAIA,"$25,620","$25,620",593,
 "University of San Diego
-San Diego, CA",,Competitive,Selective,D1,"$44,586","$44,586",5541,
+San Diego, CA",UOSD69,Competitive,Selective,D1,"$44,586","$44,586",5541,
 "University of Science & Arts of Oklahoma
 Chickasha, OK",,Competitive,Somewhat Selective,NAIA,"$6,270","$15,210",801,
 "University of Scranton
@@ -3106,9 +3106,9 @@ Scranton, PA",,All Others,Selective,D3,"$41,044","$41,044",3844,
 "University of Sioux Falls
 Sioux Falls, SD",,Competitive,Somewhat Selective,D2,"$26,240","$26,240",901,
 "University of South Alabama
-Mobile, AL",,Most Competitive,Somewhat Selective,D1,"$7,332","$14,364",9090,
+Mobile, AL",UOSA7,Most Competitive,Somewhat Selective,D1,"$7,332","$14,364",9090,
 "University of South Carolina
-Columbia, SC",,Most Competitive,Selective,D1,"$11,482","$30,298",23179,
+Columbia, SC",UOSC1098,Most Competitive,Selective,D1,"$11,482","$30,298",23179,
 "University of South Carolina - Aiken
 Aiken, SC",,Most Competitive,Somewhat Selective,D2,"$9,878","$19,472",2493,
 "University of South Carolina - Beaufort
@@ -3122,15 +3122,15 @@ Union, SC",,All Others,Most Selective,JC,"$6,686","$16,130",492,
 "University of South Carolina - Upstate
 Spartanburg, SC",,Most Competitive,Somewhat Selective,D1,"$10,818","$21,468",4218,
 "University of South Dakota
-Vermillion, SD",,Competitive,Somewhat Selective,D1,"$8,457","$11,338",4876,
+Vermillion, SD",UOSCU1100,Competitive,Somewhat Selective,D1,"$8,457","$11,338",4876,
 "University of South Florida
-Tampa, FL",,Most Competitive,Selective,D1,"$6,410","$17,324",23783,
+Tampa, FL",UOSF185,Most Competitive,Selective,D1,"$6,410","$17,324",23783,
 "University of Southern Indiana
 Evansville, IN",,Somewhat Competitive,Somewhat Selective,D2,"$7,178","$16,959",6978,
 "University of Southern Maine
 Portland, ME",,All Others,Somewhat Selective,D3,"$7,796","$18,508",3985,
 "University of Southern Mississippi
-Hattiesburg, MS",,Somewhat Competitive,Somewhat Selective,D1,"$7,334","$16,204",10577,
+Hattiesburg, MS",UOSM612,Somewhat Competitive,Somewhat Selective,D1,"$7,334","$16,204",10577,
 "University of St. Francis - Illinois
 Joliet, IL",,Most Competitive,Somewhat Selective,NAIA,"$29,950","$29,950",1357,
 "University of St. Thomas - Minnesota
@@ -3138,21 +3138,21 @@ Saint Paul, MN",,Most Competitive,Selective,D3,"$38,105","$38,105",5883,
 "University of Tampa
 Tampa, FL",,Most Competitive,Selective,D2,"$27,044","$27,044",6545,
 "University of Tennessee
-Knoxville, TN",,Most Competitive,Selective,D1,"$12,436","$30,856",20337,
+Knoxville, TN",UOT1138,Most Competitive,Selective,D1,"$12,436","$30,856",20337,
 "University of Tennessee - Chattanooga
-Chattanooga, TN",,Most Competitive,Somewhat Selective,D1,"$8,356","$24,474",8985,
+Chattanooga, TN",UOTAC1139,Most Competitive,Somewhat Selective,D1,"$8,356","$24,474",8985,
 "University of Tennessee - Martin
-Martin, TN",,Somewhat Competitive,Somewhat Selective,D1,"$8,326","$22,270",5738,
+Martin, TN",UOTAM1140,Somewhat Competitive,Somewhat Selective,D1,"$8,326","$22,270",5738,
 "University of Texas - Arlington
-Arlington, TX",,Competitive,Somewhat Selective,D1,"$9,208","$19,104",15957,
+Arlington, TX",UOTAA1177,Competitive,Somewhat Selective,D1,"$9,208","$19,104",15957,
 "University of Texas - Austin
-Austin, TX",,Most Competitive,Selective,D1,"$9,806","$34,676",36309,
+Austin, TX",UOTAA1178,Most Competitive,Selective,D1,"$9,806","$34,676",36309,
 "University of Texas - El Paso
-El Paso, TX",,Somewhat Competitive,All Others,D1,"$7,259","$19,159",13106,
+El Paso, TX",UOTAEP1180,Somewhat Competitive,All Others,D1,"$7,259","$19,159",13106,
 "University of Texas - Permian Basin
 Odessa, TX",,Somewhat Competitive,Somewhat Selective,D2,"$5,250","$6,090",2023,
 "University of Texas - San Antonio
-San Antonio, TX",,Competitive,Somewhat Selective,D1,"$7,447","$17,169",20248,
+San Antonio, TX",UOTASA1182,Competitive,Somewhat Selective,D1,"$7,447","$17,169",20248,
 "University of Texas - Tyler
 Tyler, TX",,Most Competitive,Somewhat Selective,D3,"$7,312","$19,236",9889,
 "University of Texas at Dallas
@@ -3170,17 +3170,17 @@ Philadelphia, PA",,All Others,Selective,D2,"$37,466","$37,466",1607,
 "University of the Southwest
 Hobbs, NM",,Competitive,Somewhat Selective,NAIA,"$14,616","$14,616",238,
 "University of Toledo
-Toledo, OH",,All Others,Somewhat Selective,D1,"$9,547","$18,885",12806,
+Toledo, OH",UOT897,All Others,Somewhat Selective,D1,"$9,547","$18,885",12806,
 "University of Tulsa
-Tulsa, OK",,Most Competitive,Selective,D1,"$40,484","$40,484",3478,
+Tulsa, OK",UOT946,Most Competitive,Selective,D1,"$40,484","$40,484",3478,
 "University of Utah
-Salt Lake City, UT",,Most Competitive,Selective,D1,"$8,197","$26,022",17137,
+Salt Lake City, UT",UOU1229,Most Competitive,Selective,D1,"$8,197","$26,022",17137,
 "University of Valley Forge
 Phoenixville, PA",,All Others,All Others,D3,"$20,394","$20,394",603,
 "University of Virginia
-Charlottesville, VA",,Somewhat Competitive,Most Selective,D1,"$15,192","$44,365",15622,
+Charlottesville, VA",UOV1253,Somewhat Competitive,Most Selective,D1,"$15,192","$44,365",15622,
 "University of Washington
-Seattle, WA",,Most Competitive,Selective,D1,"$11,839","$34,143",27764,
+Seattle, WA",UOW1285,Most Competitive,Selective,D1,"$11,839","$34,143",27764,
 "University of West Alabama
 Livingston, AL",,Competitive,All Others,D2,"$8,734","$15,878",1694,
 "University of West Florida
@@ -3188,11 +3188,11 @@ Pensacola, FL",,Most Competitive,Selective,D2,"$6,360","$19,241",7394,
 "University of West Georgia
 Carrollton, GA",,Somewhat Competitive,All Others,D2,"$6,143","$16,717",8531,
 "University of Wisconsin
-Madison, WI",,Most Competitive,Selective,D1,"$10,415","$29,665",28306,
+Madison, WI",UOW1318,Most Competitive,Selective,D1,"$10,415","$29,665",28306,
 "University of Wisconsin - Eau Claire
 Eau Claire, WI",,Competitive,Selective,D3,"$8,822","$16,395",9282,
 "University of Wisconsin - Green Bay
-Green Bay, WI",,Competitive,Selective,D1,"$7,824","$15,397",4233,
+Green Bay, WI",UOWB1317,Competitive,Selective,D1,"$7,824","$15,397",4233,
 "University of Wisconsin - La Crosse
 La Crosse, WI",,Competitive,Selective,D3,"$8,832","$16,783",9292,
 "University of Wisconsin - Oshkosh
@@ -3220,11 +3220,11 @@ Collegeville, PA",,All Others,Most Selective,D3,"$47,700","$47,700",1662,
 "Ursuline College
 Pepper Pike, OH",,All Others,Somewhat Selective,D2,"$28,520","$28,520",485,
 "Utah State University
-Logan, UT",,Somewhat Competitive,Selective,D1,"$7,260","$19,760",15823,
+Logan, UT",USU1230,Somewhat Competitive,Selective,D1,"$7,260","$19,760",15823,
 "Utah State University Eastern
 Price, UT",,Most Competitive,All Others,JC,"$2,922","$5,394",1232,
 "Utah Valley University
-Orem, UT",,All Others,Somewhat Selective,D1,"$5,386","$15,202",16259,
+Orem, UT",UVU1231,All Others,Somewhat Selective,D1,"$5,386","$15,202",16259,
 "Utica College
 Utica, NY",,Competitive,Somewhat Selective,D3,"$34,466","$34,466",2216,
 "Valdosta State University
@@ -3232,7 +3232,7 @@ Valdosta, GA",,Most Competitive,Somewhat Selective,D2,"$6,297","$16,871",7815,
 "Valley City State University
 Valley City, ND",,Competitive,Somewhat Selective,NAIA,"$6,800","$15,406",779,
 "Valparaiso University
-Valparaiso, IN",,Somewhat Competitive,Selective,D1,"$36,160","$36,160",3150,
+Valparaiso, IN",VU323,Somewhat Competitive,Selective,D1,"$36,160","$36,160",3150,
 "Vanguard University of Southern California
 Costa Mesa, CA",,Most Competitive,Somewhat Selective,NAIA,"$30,050","$30,050",1504,
 "Ventura College
@@ -3244,7 +3244,7 @@ Vernon, TX",,Competitive,All Others,JC,"$4,350","$6,300",1074,
 "Victor Valley College
 Victorville, CA",,All Others,All Others,JC,"$1,114","$5,914",4182,
 "Villanova University
-Villanova, PA",,All Others,Most Selective,D1,"$48,610","$48,610",6469,
+Villanova, PA",VU996,All Others,Most Selective,D1,"$48,610","$48,610",6469,
 "Virginia State University
 Petersburg, VA",,All Others,Somewhat Selective,D2,"$8,226","$18,398",4284,
 "Virginia Tech
@@ -3262,7 +3262,7 @@ Denmark, SC",,All Others,All Others,NAIA,"$12,630","$12,630",452,
 "Wabash Valley College
 Mount Carmel, IL",,Most Competitive,All Others,JC,"$9,079","$11,070",560,
 "Wagner College
-Staten Island, NY",,All Others,Selective,D1,"$42,480","$42,480",1762,
+Staten Island, NY",WC751,All Others,Selective,D1,"$42,480","$42,480",1762,
 "Wake Technical Community College
 Raleigh, NC",,Competitive,All Others,JC,"$2,768","$8,912",7612,
 "Waldorf University
@@ -3304,7 +3304,7 @@ Weatherford, TX",,Most Competitive,All Others,JC,"$3,720","$5,280",2193,
 "Webber International University
 Babson Park, FL",,Somewhat Competitive,All Others,NAIA,"$24,792","$24,792",658,
 "Weber State University
-Ogden, UT",,Somewhat Competitive,Somewhat Selective,D1,"$5,321","$14,235",11084,
+Ogden, UT",WSU1232,Somewhat Competitive,Somewhat Selective,D1,"$5,321","$14,235",11084,
 "Webster University
 Saint Louis, MO",,Somewhat Competitive,Selective,D3,"$25,500","$25,500",2512,
 "Wellesley College
@@ -3338,17 +3338,17 @@ Institute, WV",,Competitive,All Others,D2,"$6,662","$15,572",1950,
 "West Virginia University Institute of Technology
 Montgomery, WV",,All Others,Somewhat Selective,NAIA,"$6,336","$15,936",978,
 "West Virginia Wesleyan College
-Buckhannon, WV",,Most Competitive,Somewhat Selective,D2,"$28,792","$28,792",1357,
+Buckhannon, WV",WVWC1312,Most Competitive,Somewhat Selective,D2,"$28,792","$28,792",1357,
 "Western Carolina University
-Cullowhee, NC",,Competitive,Somewhat Selective,D1,"$6,623","$17,016",7373,
+Cullowhee, NC",WCU850,Competitive,Somewhat Selective,D1,"$6,623","$17,016",7373,
 "Western Connecticut State University
 Danbury, CT",,Competitive,Somewhat Selective,D3,"$9,516","$21,786",4365,
 "Western Illinois University
-Macomb, IL",,Somewhat Competitive,Somewhat Selective,D1,"$12,889","$17,291",8607,
+Macomb, IL",WIU275,Somewhat Competitive,Somewhat Selective,D1,"$12,889","$17,291",8607,
 "Western Kentucky University
-Bowling Green, KY",,Competitive,Somewhat Selective,D1,"$9,482","$24,132",13297,
+Bowling Green, KY",WKU411,Competitive,Somewhat Selective,D1,"$9,482","$24,132",13297,
 "Western Michigan University
-Kalamazoo, MI",,Somewhat Competitive,Somewhat Selective,D1,"$11,029","$28,485",15713,
+Kalamazoo, MI",WMU548,Somewhat Competitive,Somewhat Selective,D1,"$11,029","$28,485",15713,
 "Western Nebraska Community College
 Scottsbluff, NE",,Most Competitive,All Others,JC,"$2,616","$2,928",864,
 "Western New England University
@@ -3384,7 +3384,7 @@ Whittier, CA",,Most Competitive,Somewhat Selective,D3,"$43,280","$43,280",1593,
 "Whitworth University
 Spokane, WA",,Competitive,Selective,D3,"$39,096","$39,096",2320,
 "Wichita State University
-Wichita, KS",,Competitive,Somewhat Selective,D1,"$7,528","$15,851",8909,
+Wichita, KS",WSU384,Competitive,Somewhat Selective,D1,"$7,528","$15,851",8909,
 "Widener University
 Chester, PA",,Competitive,Somewhat Selective,D3,"$41,224","$41,224",2861,
 "Wilkes University
@@ -3424,7 +3424,7 @@ Winona, MN",,Most Competitive,Selective,D2,"$9,047","$14,744",7196,
 "Winston-Salem State University
 Winston-Salem, NC",,All Others,Somewhat Selective,D2,"$5,707","$15,523",4098,
 "Winthrop University
-Rock Hill, SC",,Competitive,Selective,D1,"$14,456","$27,704",4421,
+Rock Hill, SC",WU1101,Competitive,Selective,D1,"$14,456","$27,704",4421,
 "Wisconsin Lutheran College
 Milwaukee, WI",,Competitive,Selective,D3,"$27,040","$27,040",980,
 "Wittenberg University
@@ -3436,11 +3436,11 @@ Worcester, MA",,Somewhat Competitive,Somewhat Selective,D3,"$8,857","$14,937",41
 "Wright State University
 Dayton, OH",,Somewhat Competitive,All Others,D1,"$8,730","$17,098",9937,
 "Wright State University - Lake Campus
-Celina, OH",,Most Competitive,All Others,Other,"$5,842","$14,210",761,
+Celina, OH",WSU898,Most Competitive,All Others,Other,"$5,842","$14,210",761,
 "Yakima Valley College
 Yakima, WA",,Somewhat Competitive,All Others,JC,"$4,225","$4,626",2888,
 "Yale University
-New Haven, CT",,All Others,Most Selective,D1,"$47,600","$47,600",5470,
+New Haven, CT",YU147,All Others,Most Selective,D1,"$47,600","$47,600",5470,
 "Yavapai College
 Prescott, AZ",,Most Competitive,All Others,JC,"$2,064","$8,688",2029,
 "York College
@@ -3450,6 +3450,6 @@ York, PA",,Somewhat Competitive,Selective,D3,"$18,240","$18,240",4340,
 "Young Harris College
 Young Harris, GA",,Somewhat Competitive,All Others,D2,"$28,012","$28,012",1186,
 "Youngstown State University
-Youngstown, OH",,Somewhat Competitive,Somewhat Selective,D1,"$8,317","$8,557",8772,
+Youngstown, OH",YSU900,Somewhat Competitive,Somewhat Selective,D1,"$8,317","$8,557",8772,
 "Yuba College
 Marysville, CA",,Somewhat Competitive,All Others,JC,"$1,144","$6,475",2765,
