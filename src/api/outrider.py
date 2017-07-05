@@ -27,12 +27,12 @@ def get_all_colleges():
     results = colleges.find()
     return clean_and_jsonify(results);
 
-@app.route('/outpost/api/v1.0/colleges/<school_name>', methods=['GET'])
-def get_college(school_name): 
-    results = colleges.find({"school": re.compile(school_name, re.IGNORECASE)}).sort("school")
+@app.route('/outpost/api/v1.0/colleges/<school_slug>', methods=['GET'])
+def get_college(school_slug): 
+    results = colleges.find({"slug": re.compile(school_slug, re.IGNORECASE)}).sort("school")
     return clean_and_jsonify(results);
 
-@app.route('/outpost/api/v1.0/colleges/teams/<team_name>', methods=['GET'])
+@app.route('/outpost/api/v1.0/colleges/search/<team_name>', methods=['GET'])
 def get_college_team(team_name): 
     results = colleges.find({"$or":[{"school": re.compile(team_name, re.IGNORECASE)}, {"team": re.compile(team_name, re.IGNORECASE)}]}).sort("school")
     return clean_and_jsonify(results);
@@ -57,21 +57,24 @@ def get_all_softball():
     results = teams.find()
     return clean_and_jsonify(results);
 
-@app.route('/outpost/api/v1.0/colleges/<school_name>/softball', methods=['GET'])
-def get_softball_for_school(school_name):
-	results = teams.find({'school': re.compile(school_name, re.IGNORECASE)})
-	print results;
+@app.route('/outpost/api/v1.0/colleges/softball/<school_slug>', methods=['GET'])
+def get_softball_for_school(school_slug):
+	results = teams.find({'slug': re.compile(school_slug, re.IGNORECASE)})
 	return clean_and_jsonify(results);
 
 @app.route('/outpost/api/v1.0/colleges/demographics/<school_slug>', methods=['GET'])
 def get_demographics_for_school(school_slug):
 	results = demographics.find({'slug': re.compile(school_slug, re.IGNORECASE)})
-	print results;
 	return clean_and_jsonify(results);
 
-@app.route('/outpost/api/v1.0/colleges/softball/coaches/<coach_name>', methods=['GET'])
+@app.route('/outpost/api/v1.0/colleges/coaches/search/<coach_name>', methods=['GET'])
 def get_softball_coaches(coach_name):
     results = coaches.find({"$or": [{'name': re.compile(coach_name, re.IGNORECASE)},{'school': re.compile(coach_name, re.IGNORECASE)}]}) 
+    return clean_and_jsonify(results);
+
+@app.route('/outpost/api/v1.0/colleges/softball/coaches/<school_slug>', methods=['GET'])
+def get_softball_coaches_for_school(school_slug):
+    results = coaches.find({'slug': re.compile(school_slug, re.IGNORECASE)})
     return clean_and_jsonify(results);
 
 
